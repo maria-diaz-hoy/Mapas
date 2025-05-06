@@ -1,0 +1,4255 @@
+[
+  {
+    "COD": "ADRH102736",
+    "Nombre": "Badajoz. Dato base. Renta neta media por hogar. ",
+    "T3_Unidad": "Euros",
+    "T3_Escala": " ",
+    "MetaData": [
+      {
+        "Id": 562,
+        "T3_Variable": "Municipios",
+        "Nombre": "Badajoz",
+        "Codigo": "06015"
+      },
+      {
+        "Id": 72,
+        "T3_Variable": "Tipo de dato",
+        "Nombre": "Dato base",
+        "Codigo": ""
+      },
+      {
+        "Id": 284052,
+        "T3_Variable": "SALDOS CONTABLES",
+        "Nombre": "Renta neta media por hogar",
+        "Codigo": ""
+      }
+    ],
+    "Data": [
+      {
+        "Fecha": "2022-01-01T00:00:00.000+01:00",
+        "T3_TipoDato": "Definitivo",
+        "T3_Periodo": "A",
+        "Anyo": 2022,
+        "Valor": 32947
+      }
+    ]
+  },
+  {
+    "COD": "ADRH82038",
+    "Nombre": "Badajoz distrito 01. Dato base. Renta neta media por hogar. ",
+    "T3_Unidad": "Euros",
+    "T3_Escala": " ",
+    "MetaData": [
+      {
+        "Id": 326134,
+        "T3_Variable": "Distritos",
+        "Nombre": "Badajoz distrito 01",
+        "Codigo": "0601501"
+      },
+      {
+        "Id": 72,
+        "T3_Variable": "Tipo de dato",
+        "Nombre": "Dato base",
+        "Codigo": ""
+      },
+      {
+        "Id": 284052,
+        "T3_Variable": "SALDOS CONTABLES",
+        "Nombre": "Renta neta media por hogar",
+        "Codigo": ""
+      }
+    ],
+    "Data": [
+      {
+        "Fecha": "2022-01-01T00:00:00.000+01:00",
+        "T3_TipoDato": "Definitivo",
+        "T3_Periodo": "A",
+        "Anyo": 2022,
+        "Valor": 34338
+      }
+    ]
+  },
+  {
+    "COD": "ADRH55164",
+    "Nombre": "Badajoz sección 01001. Dato base. Renta neta media por hogar. ",
+    "T3_Unidad": "Euros",
+    "T3_Escala": " ",
+    "MetaData": [
+      {
+        "Id": 326135,
+        "T3_Variable": "Secciones",
+        "Nombre": "Badajoz sección 01001",
+        "Codigo": "0601501001"
+      },
+      {
+        "Id": 72,
+        "T3_Variable": "Tipo de dato",
+        "Nombre": "Dato base",
+        "Codigo": ""
+      },
+      {
+        "Id": 284052,
+        "T3_Variable": "SALDOS CONTABLES",
+        "Nombre": "Renta neta media por hogar",
+        "Codigo": ""
+      }
+    ],
+    "Data": [
+      {
+        "Fecha": "2022-01-01T00:00:00.000+01:00",
+        "T3_TipoDato": "Definitivo",
+        "T3_Periodo": "A",
+        "Anyo": 2022,
+        "Valor": 29477
+      }
+    ]
+  },
+  {
+    "COD": "ADRH55162",
+    "Nombre": "Badajoz sección 01002. Dato base. Renta neta media por hogar. ",
+    "T3_Unidad": "Euros",
+    "T3_Escala": " ",
+    "MetaData": [
+      {
+        "Id": 326136,
+        "T3_Variable": "Secciones",
+        "Nombre": "Badajoz sección 01002",
+        "Codigo": "0601501002"
+      },
+      {
+        "Id": 72,
+        "T3_Variable": "Tipo de dato",
+        "Nombre": "Dato base",
+        "Codigo": ""
+      },
+      {
+        "Id": 284052,
+        "T3_Variable": "SALDOS CONTABLES",
+        "Nombre": "Renta neta media por hogar",
+        "Codigo": ""
+      }
+    ],
+    "Data": [
+      {
+        "Fecha": "2022-01-01T00:00:00.000+01:00",
+        "T3_TipoDato": "Definitivo",
+        "T3_Periodo": "A",
+        "Anyo": 2022,
+        "Valor": 31426
+      }
+    ]
+  },
+  {
+    "COD": "ADRH55160",
+    "Nombre": "Badajoz sección 01003. Dato base. Renta neta media por hogar. ",
+    "T3_Unidad": "Euros",
+    "T3_Escala": " ",
+    "MetaData": [
+      {
+        "Id": 326137,
+        "T3_Variable": "Secciones",
+        "Nombre": "Badajoz sección 01003",
+        "Codigo": "0601501003"
+      },
+      {
+        "Id": 72,
+        "T3_Variable": "Tipo de dato",
+        "Nombre": "Dato base",
+        "Codigo": ""
+      },
+      {
+        "Id": 284052,
+        "T3_Variable": "SALDOS CONTABLES",
+        "Nombre": "Renta neta media por hogar",
+        "Codigo": ""
+      }
+    ],
+    "Data": [
+      {
+        "Fecha": "2022-01-01T00:00:00.000+01:00",
+        "T3_TipoDato": "Definitivo",
+        "T3_Periodo": "A",
+        "Anyo": 2022,
+        "Valor": 31131
+      }
+    ]
+  },
+  {
+    "COD": "ADRH55158",
+    "Nombre": "Badajoz sección 01005. Dato base. Renta neta media por hogar. ",
+    "T3_Unidad": "Euros",
+    "T3_Escala": " ",
+    "MetaData": [
+      {
+        "Id": 326138,
+        "T3_Variable": "Secciones",
+        "Nombre": "Badajoz sección 01005",
+        "Codigo": "0601501005"
+      },
+      {
+        "Id": 72,
+        "T3_Variable": "Tipo de dato",
+        "Nombre": "Dato base",
+        "Codigo": ""
+      },
+      {
+        "Id": 284052,
+        "T3_Variable": "SALDOS CONTABLES",
+        "Nombre": "Renta neta media por hogar",
+        "Codigo": ""
+      }
+    ],
+    "Data": [
+      {
+        "Fecha": "2022-01-01T00:00:00.000+01:00",
+        "T3_TipoDato": "Definitivo",
+        "T3_Periodo": "A",
+        "Anyo": 2022,
+        "Valor": 22779
+      }
+    ]
+  },
+  {
+    "COD": "ADRH55156",
+    "Nombre": "Badajoz sección 01008. Dato base. Renta neta media por hogar. ",
+    "T3_Unidad": "Euros",
+    "T3_Escala": " ",
+    "MetaData": [
+      {
+        "Id": 326139,
+        "T3_Variable": "Secciones",
+        "Nombre": "Badajoz sección 01008",
+        "Codigo": "0601501008"
+      },
+      {
+        "Id": 72,
+        "T3_Variable": "Tipo de dato",
+        "Nombre": "Dato base",
+        "Codigo": ""
+      },
+      {
+        "Id": 284052,
+        "T3_Variable": "SALDOS CONTABLES",
+        "Nombre": "Renta neta media por hogar",
+        "Codigo": ""
+      }
+    ],
+    "Data": [
+      {
+        "Fecha": "2022-01-01T00:00:00.000+01:00",
+        "T3_TipoDato": "Definitivo",
+        "T3_Periodo": "A",
+        "Anyo": 2022,
+        "Valor": 29173
+      }
+    ]
+  },
+  {
+    "COD": "ADRH55154",
+    "Nombre": "Badajoz sección 01010. Dato base. Renta neta media por hogar. ",
+    "T3_Unidad": "Euros",
+    "T3_Escala": " ",
+    "MetaData": [
+      {
+        "Id": 326140,
+        "T3_Variable": "Secciones",
+        "Nombre": "Badajoz sección 01010",
+        "Codigo": "0601501010"
+      },
+      {
+        "Id": 72,
+        "T3_Variable": "Tipo de dato",
+        "Nombre": "Dato base",
+        "Codigo": ""
+      },
+      {
+        "Id": 284052,
+        "T3_Variable": "SALDOS CONTABLES",
+        "Nombre": "Renta neta media por hogar",
+        "Codigo": ""
+      }
+    ],
+    "Data": [
+      {
+        "Fecha": "2022-01-01T00:00:00.000+01:00",
+        "T3_TipoDato": "Definitivo",
+        "T3_Periodo": "A",
+        "Anyo": 2022,
+        "Valor": 46896
+      }
+    ]
+  },
+  {
+    "COD": "ADRH55152",
+    "Nombre": "Badajoz sección 01011. Dato base. Renta neta media por hogar. ",
+    "T3_Unidad": "Euros",
+    "T3_Escala": " ",
+    "MetaData": [
+      {
+        "Id": 326141,
+        "T3_Variable": "Secciones",
+        "Nombre": "Badajoz sección 01011",
+        "Codigo": "0601501011"
+      },
+      {
+        "Id": 72,
+        "T3_Variable": "Tipo de dato",
+        "Nombre": "Dato base",
+        "Codigo": ""
+      },
+      {
+        "Id": 284052,
+        "T3_Variable": "SALDOS CONTABLES",
+        "Nombre": "Renta neta media por hogar",
+        "Codigo": ""
+      }
+    ],
+    "Data": [
+      {
+        "Fecha": "2022-01-01T00:00:00.000+01:00",
+        "T3_TipoDato": "Definitivo",
+        "T3_Periodo": "A",
+        "Anyo": 2022,
+        "Valor": 42767
+      }
+    ]
+  },
+  {
+    "COD": "ADRH55150",
+    "Nombre": "Badajoz sección 01012. Dato base. Renta neta media por hogar. ",
+    "T3_Unidad": "Euros",
+    "T3_Escala": " ",
+    "MetaData": [
+      {
+        "Id": 326142,
+        "T3_Variable": "Secciones",
+        "Nombre": "Badajoz sección 01012",
+        "Codigo": "0601501012"
+      },
+      {
+        "Id": 72,
+        "T3_Variable": "Tipo de dato",
+        "Nombre": "Dato base",
+        "Codigo": ""
+      },
+      {
+        "Id": 284052,
+        "T3_Variable": "SALDOS CONTABLES",
+        "Nombre": "Renta neta media por hogar",
+        "Codigo": ""
+      }
+    ],
+    "Data": [
+      {
+        "Fecha": "2022-01-01T00:00:00.000+01:00",
+        "T3_TipoDato": "Definitivo",
+        "T3_Periodo": "A",
+        "Anyo": 2022,
+        "Valor": 47711
+      }
+    ]
+  },
+  {
+    "COD": "ADRH82036",
+    "Nombre": "Badajoz distrito 02. Dato base. Renta neta media por hogar. ",
+    "T3_Unidad": "Euros",
+    "T3_Escala": " ",
+    "MetaData": [
+      {
+        "Id": 326143,
+        "T3_Variable": "Distritos",
+        "Nombre": "Badajoz distrito 02",
+        "Codigo": "0601502"
+      },
+      {
+        "Id": 72,
+        "T3_Variable": "Tipo de dato",
+        "Nombre": "Dato base",
+        "Codigo": ""
+      },
+      {
+        "Id": 284052,
+        "T3_Variable": "SALDOS CONTABLES",
+        "Nombre": "Renta neta media por hogar",
+        "Codigo": ""
+      }
+    ],
+    "Data": [
+      {
+        "Fecha": "2022-01-01T00:00:00.000+01:00",
+        "T3_TipoDato": "Definitivo",
+        "T3_Periodo": "A",
+        "Anyo": 2022,
+        "Valor": 27474
+      }
+    ]
+  },
+  {
+    "COD": "ADRH55148",
+    "Nombre": "Badajoz sección 02001. Dato base. Renta neta media por hogar. ",
+    "T3_Unidad": "Euros",
+    "T3_Escala": " ",
+    "MetaData": [
+      {
+        "Id": 326144,
+        "T3_Variable": "Secciones",
+        "Nombre": "Badajoz sección 02001",
+        "Codigo": "0601502001"
+      },
+      {
+        "Id": 72,
+        "T3_Variable": "Tipo de dato",
+        "Nombre": "Dato base",
+        "Codigo": ""
+      },
+      {
+        "Id": 284052,
+        "T3_Variable": "SALDOS CONTABLES",
+        "Nombre": "Renta neta media por hogar",
+        "Codigo": ""
+      }
+    ],
+    "Data": [
+      {
+        "Fecha": "2022-01-01T00:00:00.000+01:00",
+        "T3_TipoDato": "Definitivo",
+        "T3_Periodo": "A",
+        "Anyo": 2022,
+        "Valor": 24626
+      }
+    ]
+  },
+  {
+    "COD": "ADRH55146",
+    "Nombre": "Badajoz sección 02002. Dato base. Renta neta media por hogar. ",
+    "T3_Unidad": "Euros",
+    "T3_Escala": " ",
+    "MetaData": [
+      {
+        "Id": 326145,
+        "T3_Variable": "Secciones",
+        "Nombre": "Badajoz sección 02002",
+        "Codigo": "0601502002"
+      },
+      {
+        "Id": 72,
+        "T3_Variable": "Tipo de dato",
+        "Nombre": "Dato base",
+        "Codigo": ""
+      },
+      {
+        "Id": 284052,
+        "T3_Variable": "SALDOS CONTABLES",
+        "Nombre": "Renta neta media por hogar",
+        "Codigo": ""
+      }
+    ],
+    "Data": [
+      {
+        "Fecha": "2022-01-01T00:00:00.000+01:00",
+        "T3_TipoDato": "Definitivo",
+        "T3_Periodo": "A",
+        "Anyo": 2022,
+        "Valor": 21192
+      }
+    ]
+  },
+  {
+    "COD": "ADRH55144",
+    "Nombre": "Badajoz sección 02004. Dato base. Renta neta media por hogar. ",
+    "T3_Unidad": "Euros",
+    "T3_Escala": " ",
+    "MetaData": [
+      {
+        "Id": 326146,
+        "T3_Variable": "Secciones",
+        "Nombre": "Badajoz sección 02004",
+        "Codigo": "0601502004"
+      },
+      {
+        "Id": 72,
+        "T3_Variable": "Tipo de dato",
+        "Nombre": "Dato base",
+        "Codigo": ""
+      },
+      {
+        "Id": 284052,
+        "T3_Variable": "SALDOS CONTABLES",
+        "Nombre": "Renta neta media por hogar",
+        "Codigo": ""
+      }
+    ],
+    "Data": [
+      {
+        "Fecha": "2022-01-01T00:00:00.000+01:00",
+        "T3_TipoDato": "Definitivo",
+        "T3_Periodo": "A",
+        "Anyo": 2022,
+        "Valor": 26097
+      }
+    ]
+  },
+  {
+    "COD": "ADRH55142",
+    "Nombre": "Badajoz sección 02005. Dato base. Renta neta media por hogar. ",
+    "T3_Unidad": "Euros",
+    "T3_Escala": " ",
+    "MetaData": [
+      {
+        "Id": 326147,
+        "T3_Variable": "Secciones",
+        "Nombre": "Badajoz sección 02005",
+        "Codigo": "0601502005"
+      },
+      {
+        "Id": 72,
+        "T3_Variable": "Tipo de dato",
+        "Nombre": "Dato base",
+        "Codigo": ""
+      },
+      {
+        "Id": 284052,
+        "T3_Variable": "SALDOS CONTABLES",
+        "Nombre": "Renta neta media por hogar",
+        "Codigo": ""
+      }
+    ],
+    "Data": [
+      {
+        "Fecha": "2022-01-01T00:00:00.000+01:00",
+        "T3_TipoDato": "Definitivo",
+        "T3_Periodo": "A",
+        "Anyo": 2022,
+        "Valor": 33328
+      }
+    ]
+  },
+  {
+    "COD": "ADRH55140",
+    "Nombre": "Badajoz sección 02006. Dato base. Renta neta media por hogar. ",
+    "T3_Unidad": "Euros",
+    "T3_Escala": " ",
+    "MetaData": [
+      {
+        "Id": 326148,
+        "T3_Variable": "Secciones",
+        "Nombre": "Badajoz sección 02006",
+        "Codigo": "0601502006"
+      },
+      {
+        "Id": 72,
+        "T3_Variable": "Tipo de dato",
+        "Nombre": "Dato base",
+        "Codigo": ""
+      },
+      {
+        "Id": 284052,
+        "T3_Variable": "SALDOS CONTABLES",
+        "Nombre": "Renta neta media por hogar",
+        "Codigo": ""
+      }
+    ],
+    "Data": [
+      {
+        "Fecha": "2022-01-01T00:00:00.000+01:00",
+        "T3_TipoDato": "Definitivo",
+        "T3_Periodo": "A",
+        "Anyo": 2022,
+        "Valor": 31150
+      }
+    ]
+  },
+  {
+    "COD": "ADRH82034",
+    "Nombre": "Badajoz distrito 03. Dato base. Renta neta media por hogar. ",
+    "T3_Unidad": "Euros",
+    "T3_Escala": " ",
+    "MetaData": [
+      {
+        "Id": 326149,
+        "T3_Variable": "Distritos",
+        "Nombre": "Badajoz distrito 03",
+        "Codigo": "0601503"
+      },
+      {
+        "Id": 72,
+        "T3_Variable": "Tipo de dato",
+        "Nombre": "Dato base",
+        "Codigo": ""
+      },
+      {
+        "Id": 284052,
+        "T3_Variable": "SALDOS CONTABLES",
+        "Nombre": "Renta neta media por hogar",
+        "Codigo": ""
+      }
+    ],
+    "Data": [
+      {
+        "Fecha": "2022-01-01T00:00:00.000+01:00",
+        "T3_TipoDato": "Definitivo",
+        "T3_Periodo": "A",
+        "Anyo": 2022,
+        "Valor": 26139
+      }
+    ]
+  },
+  {
+    "COD": "ADRH55138",
+    "Nombre": "Badajoz sección 03001. Dato base. Renta neta media por hogar. ",
+    "T3_Unidad": "Euros",
+    "T3_Escala": " ",
+    "MetaData": [
+      {
+        "Id": 326150,
+        "T3_Variable": "Secciones",
+        "Nombre": "Badajoz sección 03001",
+        "Codigo": "0601503001"
+      },
+      {
+        "Id": 72,
+        "T3_Variable": "Tipo de dato",
+        "Nombre": "Dato base",
+        "Codigo": ""
+      },
+      {
+        "Id": 284052,
+        "T3_Variable": "SALDOS CONTABLES",
+        "Nombre": "Renta neta media por hogar",
+        "Codigo": ""
+      }
+    ],
+    "Data": [
+      {
+        "Fecha": "2022-01-01T00:00:00.000+01:00",
+        "T3_TipoDato": "Definitivo",
+        "T3_Periodo": "A",
+        "Anyo": 2022,
+        "Valor": 25941
+      }
+    ]
+  },
+  {
+    "COD": "ADRH55136",
+    "Nombre": "Badajoz sección 03002. Dato base. Renta neta media por hogar. ",
+    "T3_Unidad": "Euros",
+    "T3_Escala": " ",
+    "MetaData": [
+      {
+        "Id": 326151,
+        "T3_Variable": "Secciones",
+        "Nombre": "Badajoz sección 03002",
+        "Codigo": "0601503002"
+      },
+      {
+        "Id": 72,
+        "T3_Variable": "Tipo de dato",
+        "Nombre": "Dato base",
+        "Codigo": ""
+      },
+      {
+        "Id": 284052,
+        "T3_Variable": "SALDOS CONTABLES",
+        "Nombre": "Renta neta media por hogar",
+        "Codigo": ""
+      }
+    ],
+    "Data": [
+      {
+        "Fecha": "2022-01-01T00:00:00.000+01:00",
+        "T3_TipoDato": "Definitivo",
+        "T3_Periodo": "A",
+        "Anyo": 2022,
+        "Valor": 24581
+      }
+    ]
+  },
+  {
+    "COD": "ADRH55134",
+    "Nombre": "Badajoz sección 03003. Dato base. Renta neta media por hogar. ",
+    "T3_Unidad": "Euros",
+    "T3_Escala": " ",
+    "MetaData": [
+      {
+        "Id": 326152,
+        "T3_Variable": "Secciones",
+        "Nombre": "Badajoz sección 03003",
+        "Codigo": "0601503003"
+      },
+      {
+        "Id": 72,
+        "T3_Variable": "Tipo de dato",
+        "Nombre": "Dato base",
+        "Codigo": ""
+      },
+      {
+        "Id": 284052,
+        "T3_Variable": "SALDOS CONTABLES",
+        "Nombre": "Renta neta media por hogar",
+        "Codigo": ""
+      }
+    ],
+    "Data": [
+      {
+        "Fecha": "2022-01-01T00:00:00.000+01:00",
+        "T3_TipoDato": "Definitivo",
+        "T3_Periodo": "A",
+        "Anyo": 2022,
+        "Valor": 34099
+      }
+    ]
+  },
+  {
+    "COD": "ADRH55132",
+    "Nombre": "Badajoz sección 03004. Dato base. Renta neta media por hogar. ",
+    "T3_Unidad": "Euros",
+    "T3_Escala": " ",
+    "MetaData": [
+      {
+        "Id": 326153,
+        "T3_Variable": "Secciones",
+        "Nombre": "Badajoz sección 03004",
+        "Codigo": "0601503004"
+      },
+      {
+        "Id": 72,
+        "T3_Variable": "Tipo de dato",
+        "Nombre": "Dato base",
+        "Codigo": ""
+      },
+      {
+        "Id": 284052,
+        "T3_Variable": "SALDOS CONTABLES",
+        "Nombre": "Renta neta media por hogar",
+        "Codigo": ""
+      }
+    ],
+    "Data": [
+      {
+        "Fecha": "2022-01-01T00:00:00.000+01:00",
+        "T3_TipoDato": "Definitivo",
+        "T3_Periodo": "A",
+        "Anyo": 2022,
+        "Valor": 20885
+      }
+    ]
+  },
+  {
+    "COD": "ADRH55130",
+    "Nombre": "Badajoz sección 03005. Dato base. Renta neta media por hogar. ",
+    "T3_Unidad": "Euros",
+    "T3_Escala": " ",
+    "MetaData": [
+      {
+        "Id": 326154,
+        "T3_Variable": "Secciones",
+        "Nombre": "Badajoz sección 03005",
+        "Codigo": "0601503005"
+      },
+      {
+        "Id": 72,
+        "T3_Variable": "Tipo de dato",
+        "Nombre": "Dato base",
+        "Codigo": ""
+      },
+      {
+        "Id": 284052,
+        "T3_Variable": "SALDOS CONTABLES",
+        "Nombre": "Renta neta media por hogar",
+        "Codigo": ""
+      }
+    ],
+    "Data": [
+      {
+        "Fecha": "2022-01-01T00:00:00.000+01:00",
+        "T3_TipoDato": "Definitivo",
+        "T3_Periodo": "A",
+        "Anyo": 2022,
+        "Valor": 21863
+      }
+    ]
+  },
+  {
+    "COD": "ADRH55128",
+    "Nombre": "Badajoz sección 03006. Dato base. Renta neta media por hogar. ",
+    "T3_Unidad": "Euros",
+    "T3_Escala": " ",
+    "MetaData": [
+      {
+        "Id": 326155,
+        "T3_Variable": "Secciones",
+        "Nombre": "Badajoz sección 03006",
+        "Codigo": "0601503006"
+      },
+      {
+        "Id": 72,
+        "T3_Variable": "Tipo de dato",
+        "Nombre": "Dato base",
+        "Codigo": ""
+      },
+      {
+        "Id": 284052,
+        "T3_Variable": "SALDOS CONTABLES",
+        "Nombre": "Renta neta media por hogar",
+        "Codigo": ""
+      }
+    ],
+    "Data": [
+      {
+        "Fecha": "2022-01-01T00:00:00.000+01:00",
+        "T3_TipoDato": "Definitivo",
+        "T3_Periodo": "A",
+        "Anyo": 2022,
+        "Valor": 29693
+      }
+    ]
+  },
+  {
+    "COD": "ADRH55126",
+    "Nombre": "Badajoz sección 03007. Dato base. Renta neta media por hogar. ",
+    "T3_Unidad": "Euros",
+    "T3_Escala": " ",
+    "MetaData": [
+      {
+        "Id": 326156,
+        "T3_Variable": "Secciones",
+        "Nombre": "Badajoz sección 03007",
+        "Codigo": "0601503007"
+      },
+      {
+        "Id": 72,
+        "T3_Variable": "Tipo de dato",
+        "Nombre": "Dato base",
+        "Codigo": ""
+      },
+      {
+        "Id": 284052,
+        "T3_Variable": "SALDOS CONTABLES",
+        "Nombre": "Renta neta media por hogar",
+        "Codigo": ""
+      }
+    ],
+    "Data": [
+      {
+        "Fecha": "2022-01-01T00:00:00.000+01:00",
+        "T3_TipoDato": "Definitivo",
+        "T3_Periodo": "A",
+        "Anyo": 2022,
+        "Valor": 22002
+      }
+    ]
+  },
+  {
+    "COD": "ADRH55124",
+    "Nombre": "Badajoz sección 03008. Dato base. Renta neta media por hogar. ",
+    "T3_Unidad": "Euros",
+    "T3_Escala": " ",
+    "MetaData": [
+      {
+        "Id": 326157,
+        "T3_Variable": "Secciones",
+        "Nombre": "Badajoz sección 03008",
+        "Codigo": "0601503008"
+      },
+      {
+        "Id": 72,
+        "T3_Variable": "Tipo de dato",
+        "Nombre": "Dato base",
+        "Codigo": ""
+      },
+      {
+        "Id": 284052,
+        "T3_Variable": "SALDOS CONTABLES",
+        "Nombre": "Renta neta media por hogar",
+        "Codigo": ""
+      }
+    ],
+    "Data": [
+      {
+        "Fecha": "2022-01-01T00:00:00.000+01:00",
+        "T3_TipoDato": "Definitivo",
+        "T3_Periodo": "A",
+        "Anyo": 2022,
+        "Valor": 15640,
+        "Notas": [
+          {
+            "texto": "Dato bajo secreto estadístico, por debajo de la cota inferior. Se proporciona la cota inferior.",
+            "Fk_TipoNota": 1,
+            "textoTipo": null
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "COD": "ADRH55122",
+    "Nombre": "Badajoz sección 03009. Dato base. Renta neta media por hogar. ",
+    "T3_Unidad": "Euros",
+    "T3_Escala": " ",
+    "MetaData": [
+      {
+        "Id": 326158,
+        "T3_Variable": "Secciones",
+        "Nombre": "Badajoz sección 03009",
+        "Codigo": "0601503009"
+      },
+      {
+        "Id": 72,
+        "T3_Variable": "Tipo de dato",
+        "Nombre": "Dato base",
+        "Codigo": ""
+      },
+      {
+        "Id": 284052,
+        "T3_Variable": "SALDOS CONTABLES",
+        "Nombre": "Renta neta media por hogar",
+        "Codigo": ""
+      }
+    ],
+    "Data": [
+      {
+        "Fecha": "2022-01-01T00:00:00.000+01:00",
+        "T3_TipoDato": "Definitivo",
+        "T3_Periodo": "A",
+        "Anyo": 2022,
+        "Valor": 22404
+      }
+    ]
+  },
+  {
+    "COD": "ADRH55120",
+    "Nombre": "Badajoz sección 03010. Dato base. Renta neta media por hogar. ",
+    "T3_Unidad": "Euros",
+    "T3_Escala": " ",
+    "MetaData": [
+      {
+        "Id": 326159,
+        "T3_Variable": "Secciones",
+        "Nombre": "Badajoz sección 03010",
+        "Codigo": "0601503010"
+      },
+      {
+        "Id": 72,
+        "T3_Variable": "Tipo de dato",
+        "Nombre": "Dato base",
+        "Codigo": ""
+      },
+      {
+        "Id": 284052,
+        "T3_Variable": "SALDOS CONTABLES",
+        "Nombre": "Renta neta media por hogar",
+        "Codigo": ""
+      }
+    ],
+    "Data": [
+      {
+        "Fecha": "2022-01-01T00:00:00.000+01:00",
+        "T3_TipoDato": "Definitivo",
+        "T3_Periodo": "A",
+        "Anyo": 2022,
+        "Valor": 28135
+      }
+    ]
+  },
+  {
+    "COD": "ADRH55118",
+    "Nombre": "Badajoz sección 03011. Dato base. Renta neta media por hogar. ",
+    "T3_Unidad": "Euros",
+    "T3_Escala": " ",
+    "MetaData": [
+      {
+        "Id": 326160,
+        "T3_Variable": "Secciones",
+        "Nombre": "Badajoz sección 03011",
+        "Codigo": "0601503011"
+      },
+      {
+        "Id": 72,
+        "T3_Variable": "Tipo de dato",
+        "Nombre": "Dato base",
+        "Codigo": ""
+      },
+      {
+        "Id": 284052,
+        "T3_Variable": "SALDOS CONTABLES",
+        "Nombre": "Renta neta media por hogar",
+        "Codigo": ""
+      }
+    ],
+    "Data": [
+      {
+        "Fecha": "2022-01-01T00:00:00.000+01:00",
+        "T3_TipoDato": "Definitivo",
+        "T3_Periodo": "A",
+        "Anyo": 2022,
+        "Valor": 17570
+      }
+    ]
+  },
+  {
+    "COD": "ADRH55116",
+    "Nombre": "Badajoz sección 03012. Dato base. Renta neta media por hogar. ",
+    "T3_Unidad": "Euros",
+    "T3_Escala": " ",
+    "MetaData": [
+      {
+        "Id": 326161,
+        "T3_Variable": "Secciones",
+        "Nombre": "Badajoz sección 03012",
+        "Codigo": "0601503012"
+      },
+      {
+        "Id": 72,
+        "T3_Variable": "Tipo de dato",
+        "Nombre": "Dato base",
+        "Codigo": ""
+      },
+      {
+        "Id": 284052,
+        "T3_Variable": "SALDOS CONTABLES",
+        "Nombre": "Renta neta media por hogar",
+        "Codigo": ""
+      }
+    ],
+    "Data": [
+      {
+        "Fecha": "2022-01-01T00:00:00.000+01:00",
+        "T3_TipoDato": "Definitivo",
+        "T3_Periodo": "A",
+        "Anyo": 2022,
+        "Valor": 40522
+      }
+    ]
+  },
+  {
+    "COD": "ADRH55114",
+    "Nombre": "Badajoz sección 03013. Dato base. Renta neta media por hogar. ",
+    "T3_Unidad": "Euros",
+    "T3_Escala": " ",
+    "MetaData": [
+      {
+        "Id": 326162,
+        "T3_Variable": "Secciones",
+        "Nombre": "Badajoz sección 03013",
+        "Codigo": "0601503013"
+      },
+      {
+        "Id": 72,
+        "T3_Variable": "Tipo de dato",
+        "Nombre": "Dato base",
+        "Codigo": ""
+      },
+      {
+        "Id": 284052,
+        "T3_Variable": "SALDOS CONTABLES",
+        "Nombre": "Renta neta media por hogar",
+        "Codigo": ""
+      }
+    ],
+    "Data": [
+      {
+        "Fecha": "2022-01-01T00:00:00.000+01:00",
+        "T3_TipoDato": "Definitivo",
+        "T3_Periodo": "A",
+        "Anyo": 2022,
+        "Valor": 26961
+      }
+    ]
+  },
+  {
+    "COD": "ADRH82032",
+    "Nombre": "Badajoz distrito 04. Dato base. Renta neta media por hogar. ",
+    "T3_Unidad": "Euros",
+    "T3_Escala": " ",
+    "MetaData": [
+      {
+        "Id": 326163,
+        "T3_Variable": "Distritos",
+        "Nombre": "Badajoz distrito 04",
+        "Codigo": "0601504"
+      },
+      {
+        "Id": 72,
+        "T3_Variable": "Tipo de dato",
+        "Nombre": "Dato base",
+        "Codigo": ""
+      },
+      {
+        "Id": 284052,
+        "T3_Variable": "SALDOS CONTABLES",
+        "Nombre": "Renta neta media por hogar",
+        "Codigo": ""
+      }
+    ],
+    "Data": [
+      {
+        "Fecha": "2022-01-01T00:00:00.000+01:00",
+        "T3_TipoDato": "Definitivo",
+        "T3_Periodo": "A",
+        "Anyo": 2022,
+        "Valor": 31137
+      }
+    ]
+  },
+  {
+    "COD": "ADRH55112",
+    "Nombre": "Badajoz sección 04001. Dato base. Renta neta media por hogar. ",
+    "T3_Unidad": "Euros",
+    "T3_Escala": " ",
+    "MetaData": [
+      {
+        "Id": 326164,
+        "T3_Variable": "Secciones",
+        "Nombre": "Badajoz sección 04001",
+        "Codigo": "0601504001"
+      },
+      {
+        "Id": 72,
+        "T3_Variable": "Tipo de dato",
+        "Nombre": "Dato base",
+        "Codigo": ""
+      },
+      {
+        "Id": 284052,
+        "T3_Variable": "SALDOS CONTABLES",
+        "Nombre": "Renta neta media por hogar",
+        "Codigo": ""
+      }
+    ],
+    "Data": [
+      {
+        "Fecha": "2022-01-01T00:00:00.000+01:00",
+        "T3_TipoDato": "Definitivo",
+        "T3_Periodo": "A",
+        "Anyo": 2022,
+        "Valor": 20286
+      }
+    ]
+  },
+  {
+    "COD": "ADRH55110",
+    "Nombre": "Badajoz sección 04002. Dato base. Renta neta media por hogar. ",
+    "T3_Unidad": "Euros",
+    "T3_Escala": " ",
+    "MetaData": [
+      {
+        "Id": 326165,
+        "T3_Variable": "Secciones",
+        "Nombre": "Badajoz sección 04002",
+        "Codigo": "0601504002"
+      },
+      {
+        "Id": 72,
+        "T3_Variable": "Tipo de dato",
+        "Nombre": "Dato base",
+        "Codigo": ""
+      },
+      {
+        "Id": 284052,
+        "T3_Variable": "SALDOS CONTABLES",
+        "Nombre": "Renta neta media por hogar",
+        "Codigo": ""
+      }
+    ],
+    "Data": [
+      {
+        "Fecha": "2022-01-01T00:00:00.000+01:00",
+        "T3_TipoDato": "Definitivo",
+        "T3_Periodo": "A",
+        "Anyo": 2022,
+        "Valor": 18610
+      }
+    ]
+  },
+  {
+    "COD": "ADRH55108",
+    "Nombre": "Badajoz sección 04003. Dato base. Renta neta media por hogar. ",
+    "T3_Unidad": "Euros",
+    "T3_Escala": " ",
+    "MetaData": [
+      {
+        "Id": 326166,
+        "T3_Variable": "Secciones",
+        "Nombre": "Badajoz sección 04003",
+        "Codigo": "0601504003"
+      },
+      {
+        "Id": 72,
+        "T3_Variable": "Tipo de dato",
+        "Nombre": "Dato base",
+        "Codigo": ""
+      },
+      {
+        "Id": 284052,
+        "T3_Variable": "SALDOS CONTABLES",
+        "Nombre": "Renta neta media por hogar",
+        "Codigo": ""
+      }
+    ],
+    "Data": [
+      {
+        "Fecha": "2022-01-01T00:00:00.000+01:00",
+        "T3_TipoDato": "Definitivo",
+        "T3_Periodo": "A",
+        "Anyo": 2022,
+        "Valor": 27813
+      }
+    ]
+  },
+  {
+    "COD": "ADRH55106",
+    "Nombre": "Badajoz sección 04005. Dato base. Renta neta media por hogar. ",
+    "T3_Unidad": "Euros",
+    "T3_Escala": " ",
+    "MetaData": [
+      {
+        "Id": 326167,
+        "T3_Variable": "Secciones",
+        "Nombre": "Badajoz sección 04005",
+        "Codigo": "0601504005"
+      },
+      {
+        "Id": 72,
+        "T3_Variable": "Tipo de dato",
+        "Nombre": "Dato base",
+        "Codigo": ""
+      },
+      {
+        "Id": 284052,
+        "T3_Variable": "SALDOS CONTABLES",
+        "Nombre": "Renta neta media por hogar",
+        "Codigo": ""
+      }
+    ],
+    "Data": [
+      {
+        "Fecha": "2022-01-01T00:00:00.000+01:00",
+        "T3_TipoDato": "Definitivo",
+        "T3_Periodo": "A",
+        "Anyo": 2022,
+        "Valor": 41611
+      }
+    ]
+  },
+  {
+    "COD": "ADRH55104",
+    "Nombre": "Badajoz sección 04006. Dato base. Renta neta media por hogar. ",
+    "T3_Unidad": "Euros",
+    "T3_Escala": " ",
+    "MetaData": [
+      {
+        "Id": 326168,
+        "T3_Variable": "Secciones",
+        "Nombre": "Badajoz sección 04006",
+        "Codigo": "0601504006"
+      },
+      {
+        "Id": 72,
+        "T3_Variable": "Tipo de dato",
+        "Nombre": "Dato base",
+        "Codigo": ""
+      },
+      {
+        "Id": 284052,
+        "T3_Variable": "SALDOS CONTABLES",
+        "Nombre": "Renta neta media por hogar",
+        "Codigo": ""
+      }
+    ],
+    "Data": [
+      {
+        "Fecha": "2022-01-01T00:00:00.000+01:00",
+        "T3_TipoDato": "Definitivo",
+        "T3_Periodo": "A",
+        "Anyo": 2022,
+        "Valor": 42579
+      }
+    ]
+  },
+  {
+    "COD": "ADRH55102",
+    "Nombre": "Badajoz sección 04007. Dato base. Renta neta media por hogar. ",
+    "T3_Unidad": "Euros",
+    "T3_Escala": " ",
+    "MetaData": [
+      {
+        "Id": 326169,
+        "T3_Variable": "Secciones",
+        "Nombre": "Badajoz sección 04007",
+        "Codigo": "0601504007"
+      },
+      {
+        "Id": 72,
+        "T3_Variable": "Tipo de dato",
+        "Nombre": "Dato base",
+        "Codigo": ""
+      },
+      {
+        "Id": 284052,
+        "T3_Variable": "SALDOS CONTABLES",
+        "Nombre": "Renta neta media por hogar",
+        "Codigo": ""
+      }
+    ],
+    "Data": [
+      {
+        "Fecha": "2022-01-01T00:00:00.000+01:00",
+        "T3_TipoDato": "Definitivo",
+        "T3_Periodo": "A",
+        "Anyo": 2022,
+        "Valor": 30064
+      }
+    ]
+  },
+  {
+    "COD": "ADRH55100",
+    "Nombre": "Badajoz sección 04009. Dato base. Renta neta media por hogar. ",
+    "T3_Unidad": "Euros",
+    "T3_Escala": " ",
+    "MetaData": [
+      {
+        "Id": 326170,
+        "T3_Variable": "Secciones",
+        "Nombre": "Badajoz sección 04009",
+        "Codigo": "0601504009"
+      },
+      {
+        "Id": 72,
+        "T3_Variable": "Tipo de dato",
+        "Nombre": "Dato base",
+        "Codigo": ""
+      },
+      {
+        "Id": 284052,
+        "T3_Variable": "SALDOS CONTABLES",
+        "Nombre": "Renta neta media por hogar",
+        "Codigo": ""
+      }
+    ],
+    "Data": [
+      {
+        "Fecha": "2022-01-01T00:00:00.000+01:00",
+        "T3_TipoDato": "Definitivo",
+        "T3_Periodo": "A",
+        "Anyo": 2022,
+        "Valor": 23063
+      }
+    ]
+  },
+  {
+    "COD": "ADRH55098",
+    "Nombre": "Badajoz sección 04010. Dato base. Renta neta media por hogar. ",
+    "T3_Unidad": "Euros",
+    "T3_Escala": " ",
+    "MetaData": [
+      {
+        "Id": 326171,
+        "T3_Variable": "Secciones",
+        "Nombre": "Badajoz sección 04010",
+        "Codigo": "0601504010"
+      },
+      {
+        "Id": 72,
+        "T3_Variable": "Tipo de dato",
+        "Nombre": "Dato base",
+        "Codigo": ""
+      },
+      {
+        "Id": 284052,
+        "T3_Variable": "SALDOS CONTABLES",
+        "Nombre": "Renta neta media por hogar",
+        "Codigo": ""
+      }
+    ],
+    "Data": [
+      {
+        "Fecha": "2022-01-01T00:00:00.000+01:00",
+        "T3_TipoDato": "Definitivo",
+        "T3_Periodo": "A",
+        "Anyo": 2022,
+        "Valor": 24513
+      }
+    ]
+  },
+  {
+    "COD": "ADRH55096",
+    "Nombre": "Badajoz sección 04011. Dato base. Renta neta media por hogar. ",
+    "T3_Unidad": "Euros",
+    "T3_Escala": " ",
+    "MetaData": [
+      {
+        "Id": 326172,
+        "T3_Variable": "Secciones",
+        "Nombre": "Badajoz sección 04011",
+        "Codigo": "0601504011"
+      },
+      {
+        "Id": 72,
+        "T3_Variable": "Tipo de dato",
+        "Nombre": "Dato base",
+        "Codigo": ""
+      },
+      {
+        "Id": 284052,
+        "T3_Variable": "SALDOS CONTABLES",
+        "Nombre": "Renta neta media por hogar",
+        "Codigo": ""
+      }
+    ],
+    "Data": [
+      {
+        "Fecha": "2022-01-01T00:00:00.000+01:00",
+        "T3_TipoDato": "Definitivo",
+        "T3_Periodo": "A",
+        "Anyo": 2022,
+        "Valor": 34866
+      }
+    ]
+  },
+  {
+    "COD": "ADRH55094",
+    "Nombre": "Badajoz sección 04012. Dato base. Renta neta media por hogar. ",
+    "T3_Unidad": "Euros",
+    "T3_Escala": " ",
+    "MetaData": [
+      {
+        "Id": 326173,
+        "T3_Variable": "Secciones",
+        "Nombre": "Badajoz sección 04012",
+        "Codigo": "0601504012"
+      },
+      {
+        "Id": 72,
+        "T3_Variable": "Tipo de dato",
+        "Nombre": "Dato base",
+        "Codigo": ""
+      },
+      {
+        "Id": 284052,
+        "T3_Variable": "SALDOS CONTABLES",
+        "Nombre": "Renta neta media por hogar",
+        "Codigo": ""
+      }
+    ],
+    "Data": [
+      {
+        "Fecha": "2022-01-01T00:00:00.000+01:00",
+        "T3_TipoDato": "Definitivo",
+        "T3_Periodo": "A",
+        "Anyo": 2022,
+        "Valor": 47729
+      }
+    ]
+  },
+  {
+    "COD": "ADRH55092",
+    "Nombre": "Badajoz sección 04013. Dato base. Renta neta media por hogar. ",
+    "T3_Unidad": "Euros",
+    "T3_Escala": " ",
+    "MetaData": [
+      {
+        "Id": 326174,
+        "T3_Variable": "Secciones",
+        "Nombre": "Badajoz sección 04013",
+        "Codigo": "0601504013"
+      },
+      {
+        "Id": 72,
+        "T3_Variable": "Tipo de dato",
+        "Nombre": "Dato base",
+        "Codigo": ""
+      },
+      {
+        "Id": 284052,
+        "T3_Variable": "SALDOS CONTABLES",
+        "Nombre": "Renta neta media por hogar",
+        "Codigo": ""
+      }
+    ],
+    "Data": [
+      {
+        "Fecha": "2022-01-01T00:00:00.000+01:00",
+        "T3_TipoDato": "Definitivo",
+        "T3_Periodo": "A",
+        "Anyo": 2022,
+        "Valor": 31223
+      }
+    ]
+  },
+  {
+    "COD": "ADRH55090",
+    "Nombre": "Badajoz sección 04014. Dato base. Renta neta media por hogar. ",
+    "T3_Unidad": "Euros",
+    "T3_Escala": " ",
+    "MetaData": [
+      {
+        "Id": 326175,
+        "T3_Variable": "Secciones",
+        "Nombre": "Badajoz sección 04014",
+        "Codigo": "0601504014"
+      },
+      {
+        "Id": 72,
+        "T3_Variable": "Tipo de dato",
+        "Nombre": "Dato base",
+        "Codigo": ""
+      },
+      {
+        "Id": 284052,
+        "T3_Variable": "SALDOS CONTABLES",
+        "Nombre": "Renta neta media por hogar",
+        "Codigo": ""
+      }
+    ],
+    "Data": [
+      {
+        "Fecha": "2022-01-01T00:00:00.000+01:00",
+        "T3_TipoDato": "Definitivo",
+        "T3_Periodo": "A",
+        "Anyo": 2022,
+        "Valor": 30360
+      }
+    ]
+  },
+  {
+    "COD": "ADRH55088",
+    "Nombre": "Badajoz sección 04015. Dato base. Renta neta media por hogar. ",
+    "T3_Unidad": "Euros",
+    "T3_Escala": " ",
+    "MetaData": [
+      {
+        "Id": 326176,
+        "T3_Variable": "Secciones",
+        "Nombre": "Badajoz sección 04015",
+        "Codigo": "0601504015"
+      },
+      {
+        "Id": 72,
+        "T3_Variable": "Tipo de dato",
+        "Nombre": "Dato base",
+        "Codigo": ""
+      },
+      {
+        "Id": 284052,
+        "T3_Variable": "SALDOS CONTABLES",
+        "Nombre": "Renta neta media por hogar",
+        "Codigo": ""
+      }
+    ],
+    "Data": [
+      {
+        "Fecha": "2022-01-01T00:00:00.000+01:00",
+        "T3_TipoDato": "Definitivo",
+        "T3_Periodo": "A",
+        "Anyo": 2022,
+        "Valor": 21705
+      }
+    ]
+  },
+  {
+    "COD": "ADRH55086",
+    "Nombre": "Badajoz sección 04016. Dato base. Renta neta media por hogar. ",
+    "T3_Unidad": "Euros",
+    "T3_Escala": " ",
+    "MetaData": [
+      {
+        "Id": 326177,
+        "T3_Variable": "Secciones",
+        "Nombre": "Badajoz sección 04016",
+        "Codigo": "0601504016"
+      },
+      {
+        "Id": 72,
+        "T3_Variable": "Tipo de dato",
+        "Nombre": "Dato base",
+        "Codigo": ""
+      },
+      {
+        "Id": 284052,
+        "T3_Variable": "SALDOS CONTABLES",
+        "Nombre": "Renta neta media por hogar",
+        "Codigo": ""
+      }
+    ],
+    "Data": [
+      {
+        "Fecha": "2022-01-01T00:00:00.000+01:00",
+        "T3_TipoDato": "Definitivo",
+        "T3_Periodo": "A",
+        "Anyo": 2022,
+        "Valor": 20524
+      }
+    ]
+  },
+  {
+    "COD": "ADRH55084",
+    "Nombre": "Badajoz sección 04017. Dato base. Renta neta media por hogar. ",
+    "T3_Unidad": "Euros",
+    "T3_Escala": " ",
+    "MetaData": [
+      {
+        "Id": 326178,
+        "T3_Variable": "Secciones",
+        "Nombre": "Badajoz sección 04017",
+        "Codigo": "0601504017"
+      },
+      {
+        "Id": 72,
+        "T3_Variable": "Tipo de dato",
+        "Nombre": "Dato base",
+        "Codigo": ""
+      },
+      {
+        "Id": 284052,
+        "T3_Variable": "SALDOS CONTABLES",
+        "Nombre": "Renta neta media por hogar",
+        "Codigo": ""
+      }
+    ],
+    "Data": [
+      {
+        "Fecha": "2022-01-01T00:00:00.000+01:00",
+        "T3_TipoDato": "Definitivo",
+        "T3_Periodo": "A",
+        "Anyo": 2022,
+        "Valor": 29393
+      }
+    ]
+  },
+  {
+    "COD": "ADRH9822709",
+    "Nombre": "Badajoz sección 04018. Dato base. Renta neta media por hogar. ",
+    "T3_Unidad": "Euros",
+    "T3_Escala": " ",
+    "MetaData": [
+      {
+        "Id": 382295,
+        "T3_Variable": "Secciones",
+        "Nombre": "Badajoz sección 04018",
+        "Codigo": "0601504018"
+      },
+      {
+        "Id": 72,
+        "T3_Variable": "Tipo de dato",
+        "Nombre": "Dato base",
+        "Codigo": ""
+      },
+      {
+        "Id": 284052,
+        "T3_Variable": "SALDOS CONTABLES",
+        "Nombre": "Renta neta media por hogar",
+        "Codigo": ""
+      }
+    ],
+    "Data": [
+      {
+        "Fecha": "2022-01-01T00:00:00.000+01:00",
+        "T3_TipoDato": "Definitivo",
+        "T3_Periodo": "A",
+        "Anyo": 2022,
+        "Valor": 40016
+      }
+    ]
+  },
+  {
+    "COD": "ADRH82030",
+    "Nombre": "Badajoz distrito 05. Dato base. Renta neta media por hogar. ",
+    "T3_Unidad": "Euros",
+    "T3_Escala": " ",
+    "MetaData": [
+      {
+        "Id": 326179,
+        "T3_Variable": "Distritos",
+        "Nombre": "Badajoz distrito 05",
+        "Codigo": "0601505"
+      },
+      {
+        "Id": 72,
+        "T3_Variable": "Tipo de dato",
+        "Nombre": "Dato base",
+        "Codigo": ""
+      },
+      {
+        "Id": 284052,
+        "T3_Variable": "SALDOS CONTABLES",
+        "Nombre": "Renta neta media por hogar",
+        "Codigo": ""
+      }
+    ],
+    "Data": [
+      {
+        "Fecha": "2022-01-01T00:00:00.000+01:00",
+        "T3_TipoDato": "Definitivo",
+        "T3_Periodo": "A",
+        "Anyo": 2022,
+        "Valor": 40494
+      }
+    ]
+  },
+  {
+    "COD": "ADRH55082",
+    "Nombre": "Badajoz sección 05001. Dato base. Renta neta media por hogar. ",
+    "T3_Unidad": "Euros",
+    "T3_Escala": " ",
+    "MetaData": [
+      {
+        "Id": 326180,
+        "T3_Variable": "Secciones",
+        "Nombre": "Badajoz sección 05001",
+        "Codigo": "0601505001"
+      },
+      {
+        "Id": 72,
+        "T3_Variable": "Tipo de dato",
+        "Nombre": "Dato base",
+        "Codigo": ""
+      },
+      {
+        "Id": 284052,
+        "T3_Variable": "SALDOS CONTABLES",
+        "Nombre": "Renta neta media por hogar",
+        "Codigo": ""
+      }
+    ],
+    "Data": [
+      {
+        "Fecha": "2022-01-01T00:00:00.000+01:00",
+        "T3_TipoDato": "Definitivo",
+        "T3_Periodo": "A",
+        "Anyo": 2022,
+        "Valor": 44562
+      }
+    ]
+  },
+  {
+    "COD": "ADRH55080",
+    "Nombre": "Badajoz sección 05003. Dato base. Renta neta media por hogar. ",
+    "T3_Unidad": "Euros",
+    "T3_Escala": " ",
+    "MetaData": [
+      {
+        "Id": 326181,
+        "T3_Variable": "Secciones",
+        "Nombre": "Badajoz sección 05003",
+        "Codigo": "0601505003"
+      },
+      {
+        "Id": 72,
+        "T3_Variable": "Tipo de dato",
+        "Nombre": "Dato base",
+        "Codigo": ""
+      },
+      {
+        "Id": 284052,
+        "T3_Variable": "SALDOS CONTABLES",
+        "Nombre": "Renta neta media por hogar",
+        "Codigo": ""
+      }
+    ],
+    "Data": [
+      {
+        "Fecha": "2022-01-01T00:00:00.000+01:00",
+        "T3_TipoDato": "Definitivo",
+        "T3_Periodo": "A",
+        "Anyo": 2022,
+        "Valor": 46809
+      }
+    ]
+  },
+  {
+    "COD": "ADRH55078",
+    "Nombre": "Badajoz sección 05004. Dato base. Renta neta media por hogar. ",
+    "T3_Unidad": "Euros",
+    "T3_Escala": " ",
+    "MetaData": [
+      {
+        "Id": 326182,
+        "T3_Variable": "Secciones",
+        "Nombre": "Badajoz sección 05004",
+        "Codigo": "0601505004"
+      },
+      {
+        "Id": 72,
+        "T3_Variable": "Tipo de dato",
+        "Nombre": "Dato base",
+        "Codigo": ""
+      },
+      {
+        "Id": 284052,
+        "T3_Variable": "SALDOS CONTABLES",
+        "Nombre": "Renta neta media por hogar",
+        "Codigo": ""
+      }
+    ],
+    "Data": [
+      {
+        "Fecha": "2022-01-01T00:00:00.000+01:00",
+        "T3_TipoDato": "Definitivo",
+        "T3_Periodo": "A",
+        "Anyo": 2022,
+        "Valor": 42038
+      }
+    ]
+  },
+  {
+    "COD": "ADRH55076",
+    "Nombre": "Badajoz sección 05005. Dato base. Renta neta media por hogar. ",
+    "T3_Unidad": "Euros",
+    "T3_Escala": " ",
+    "MetaData": [
+      {
+        "Id": 326183,
+        "T3_Variable": "Secciones",
+        "Nombre": "Badajoz sección 05005",
+        "Codigo": "0601505005"
+      },
+      {
+        "Id": 72,
+        "T3_Variable": "Tipo de dato",
+        "Nombre": "Dato base",
+        "Codigo": ""
+      },
+      {
+        "Id": 284052,
+        "T3_Variable": "SALDOS CONTABLES",
+        "Nombre": "Renta neta media por hogar",
+        "Codigo": ""
+      }
+    ],
+    "Data": [
+      {
+        "Fecha": "2022-01-01T00:00:00.000+01:00",
+        "T3_TipoDato": "Definitivo",
+        "T3_Periodo": "A",
+        "Anyo": 2022,
+        "Valor": 41194
+      }
+    ]
+  },
+  {
+    "COD": "ADRH55074",
+    "Nombre": "Badajoz sección 05006. Dato base. Renta neta media por hogar. ",
+    "T3_Unidad": "Euros",
+    "T3_Escala": " ",
+    "MetaData": [
+      {
+        "Id": 326184,
+        "T3_Variable": "Secciones",
+        "Nombre": "Badajoz sección 05006",
+        "Codigo": "0601505006"
+      },
+      {
+        "Id": 72,
+        "T3_Variable": "Tipo de dato",
+        "Nombre": "Dato base",
+        "Codigo": ""
+      },
+      {
+        "Id": 284052,
+        "T3_Variable": "SALDOS CONTABLES",
+        "Nombre": "Renta neta media por hogar",
+        "Codigo": ""
+      }
+    ],
+    "Data": [
+      {
+        "Fecha": "2022-01-01T00:00:00.000+01:00",
+        "T3_TipoDato": "Definitivo",
+        "T3_Periodo": "A",
+        "Anyo": 2022,
+        "Valor": 32352
+      }
+    ]
+  },
+  {
+    "COD": "ADRH55072",
+    "Nombre": "Badajoz sección 05011. Dato base. Renta neta media por hogar. ",
+    "T3_Unidad": "Euros",
+    "T3_Escala": " ",
+    "MetaData": [
+      {
+        "Id": 326185,
+        "T3_Variable": "Secciones",
+        "Nombre": "Badajoz sección 05011",
+        "Codigo": "0601505011"
+      },
+      {
+        "Id": 72,
+        "T3_Variable": "Tipo de dato",
+        "Nombre": "Dato base",
+        "Codigo": ""
+      },
+      {
+        "Id": 284052,
+        "T3_Variable": "SALDOS CONTABLES",
+        "Nombre": "Renta neta media por hogar",
+        "Codigo": ""
+      }
+    ],
+    "Data": [
+      {
+        "Fecha": "2022-01-01T00:00:00.000+01:00",
+        "T3_TipoDato": "Definitivo",
+        "T3_Periodo": "A",
+        "Anyo": 2022,
+        "Valor": 40288
+      }
+    ]
+  },
+  {
+    "COD": "ADRH55070",
+    "Nombre": "Badajoz sección 05012. Dato base. Renta neta media por hogar. ",
+    "T3_Unidad": "Euros",
+    "T3_Escala": " ",
+    "MetaData": [
+      {
+        "Id": 326186,
+        "T3_Variable": "Secciones",
+        "Nombre": "Badajoz sección 05012",
+        "Codigo": "0601505012"
+      },
+      {
+        "Id": 72,
+        "T3_Variable": "Tipo de dato",
+        "Nombre": "Dato base",
+        "Codigo": ""
+      },
+      {
+        "Id": 284052,
+        "T3_Variable": "SALDOS CONTABLES",
+        "Nombre": "Renta neta media por hogar",
+        "Codigo": ""
+      }
+    ],
+    "Data": [
+      {
+        "Fecha": "2022-01-01T00:00:00.000+01:00",
+        "T3_TipoDato": "Definitivo",
+        "T3_Periodo": "A",
+        "Anyo": 2022,
+        "Valor": 39415
+      }
+    ]
+  },
+  {
+    "COD": "ADRH55068",
+    "Nombre": "Badajoz sección 05013. Dato base. Renta neta media por hogar. ",
+    "T3_Unidad": "Euros",
+    "T3_Escala": " ",
+    "MetaData": [
+      {
+        "Id": 326187,
+        "T3_Variable": "Secciones",
+        "Nombre": "Badajoz sección 05013",
+        "Codigo": "0601505013"
+      },
+      {
+        "Id": 72,
+        "T3_Variable": "Tipo de dato",
+        "Nombre": "Dato base",
+        "Codigo": ""
+      },
+      {
+        "Id": 284052,
+        "T3_Variable": "SALDOS CONTABLES",
+        "Nombre": "Renta neta media por hogar",
+        "Codigo": ""
+      }
+    ],
+    "Data": [
+      {
+        "Fecha": "2022-01-01T00:00:00.000+01:00",
+        "T3_TipoDato": "Definitivo",
+        "T3_Periodo": "A",
+        "Anyo": 2022,
+        "Valor": 32857
+      }
+    ]
+  },
+  {
+    "COD": "ADRH55066",
+    "Nombre": "Badajoz sección 05014. Dato base. Renta neta media por hogar. ",
+    "T3_Unidad": "Euros",
+    "T3_Escala": " ",
+    "MetaData": [
+      {
+        "Id": 326188,
+        "T3_Variable": "Secciones",
+        "Nombre": "Badajoz sección 05014",
+        "Codigo": "0601505014"
+      },
+      {
+        "Id": 72,
+        "T3_Variable": "Tipo de dato",
+        "Nombre": "Dato base",
+        "Codigo": ""
+      },
+      {
+        "Id": 284052,
+        "T3_Variable": "SALDOS CONTABLES",
+        "Nombre": "Renta neta media por hogar",
+        "Codigo": ""
+      }
+    ],
+    "Data": [
+      {
+        "Fecha": "2022-01-01T00:00:00.000+01:00",
+        "T3_TipoDato": "Definitivo",
+        "T3_Periodo": "A",
+        "Anyo": 2022,
+        "Valor": 31769
+      }
+    ]
+  },
+  {
+    "COD": "ADRH55064",
+    "Nombre": "Badajoz sección 05017. Dato base. Renta neta media por hogar. ",
+    "T3_Unidad": "Euros",
+    "T3_Escala": " ",
+    "MetaData": [
+      {
+        "Id": 326189,
+        "T3_Variable": "Secciones",
+        "Nombre": "Badajoz sección 05017",
+        "Codigo": "0601505017"
+      },
+      {
+        "Id": 72,
+        "T3_Variable": "Tipo de dato",
+        "Nombre": "Dato base",
+        "Codigo": ""
+      },
+      {
+        "Id": 284052,
+        "T3_Variable": "SALDOS CONTABLES",
+        "Nombre": "Renta neta media por hogar",
+        "Codigo": ""
+      }
+    ],
+    "Data": []
+  },
+  {
+    "COD": "ADRH55062",
+    "Nombre": "Badajoz sección 05020. Dato base. Renta neta media por hogar. ",
+    "T3_Unidad": "Euros",
+    "T3_Escala": " ",
+    "MetaData": [
+      {
+        "Id": 326190,
+        "T3_Variable": "Secciones",
+        "Nombre": "Badajoz sección 05020",
+        "Codigo": "0601505020"
+      },
+      {
+        "Id": 72,
+        "T3_Variable": "Tipo de dato",
+        "Nombre": "Dato base",
+        "Codigo": ""
+      },
+      {
+        "Id": 284052,
+        "T3_Variable": "SALDOS CONTABLES",
+        "Nombre": "Renta neta media por hogar",
+        "Codigo": ""
+      }
+    ],
+    "Data": [
+      {
+        "Fecha": "2022-01-01T00:00:00.000+01:00",
+        "T3_TipoDato": "Definitivo",
+        "T3_Periodo": "A",
+        "Anyo": 2022,
+        "Valor": 55211
+      }
+    ]
+  },
+  {
+    "COD": "ADRH55060",
+    "Nombre": "Badajoz sección 05025. Dato base. Renta neta media por hogar. ",
+    "T3_Unidad": "Euros",
+    "T3_Escala": " ",
+    "MetaData": [
+      {
+        "Id": 326191,
+        "T3_Variable": "Secciones",
+        "Nombre": "Badajoz sección 05025",
+        "Codigo": "0601505025"
+      },
+      {
+        "Id": 72,
+        "T3_Variable": "Tipo de dato",
+        "Nombre": "Dato base",
+        "Codigo": ""
+      },
+      {
+        "Id": 284052,
+        "T3_Variable": "SALDOS CONTABLES",
+        "Nombre": "Renta neta media por hogar",
+        "Codigo": ""
+      }
+    ],
+    "Data": [
+      {
+        "Fecha": "2022-01-01T00:00:00.000+01:00",
+        "T3_TipoDato": "Definitivo",
+        "T3_Periodo": "A",
+        "Anyo": 2022,
+        "Valor": 45338
+      }
+    ]
+  },
+  {
+    "COD": "ADRH82028",
+    "Nombre": "Badajoz distrito 06. Dato base. Renta neta media por hogar. ",
+    "T3_Unidad": "Euros",
+    "T3_Escala": " ",
+    "MetaData": [
+      {
+        "Id": 326192,
+        "T3_Variable": "Distritos",
+        "Nombre": "Badajoz distrito 06",
+        "Codigo": "0601506"
+      },
+      {
+        "Id": 72,
+        "T3_Variable": "Tipo de dato",
+        "Nombre": "Dato base",
+        "Codigo": ""
+      },
+      {
+        "Id": 284052,
+        "T3_Variable": "SALDOS CONTABLES",
+        "Nombre": "Renta neta media por hogar",
+        "Codigo": ""
+      }
+    ],
+    "Data": [
+      {
+        "Fecha": "2022-01-01T00:00:00.000+01:00",
+        "T3_TipoDato": "Definitivo",
+        "T3_Periodo": "A",
+        "Anyo": 2022,
+        "Valor": 18528
+      }
+    ]
+  },
+  {
+    "COD": "ADRH55058",
+    "Nombre": "Badajoz sección 06001. Dato base. Renta neta media por hogar. ",
+    "T3_Unidad": "Euros",
+    "T3_Escala": " ",
+    "MetaData": [
+      {
+        "Id": 326193,
+        "T3_Variable": "Secciones",
+        "Nombre": "Badajoz sección 06001",
+        "Codigo": "0601506001"
+      },
+      {
+        "Id": 72,
+        "T3_Variable": "Tipo de dato",
+        "Nombre": "Dato base",
+        "Codigo": ""
+      },
+      {
+        "Id": 284052,
+        "T3_Variable": "SALDOS CONTABLES",
+        "Nombre": "Renta neta media por hogar",
+        "Codigo": ""
+      }
+    ],
+    "Data": [
+      {
+        "Fecha": "2022-01-01T00:00:00.000+01:00",
+        "T3_TipoDato": "Definitivo",
+        "T3_Periodo": "A",
+        "Anyo": 2022,
+        "Valor": 20917
+      }
+    ]
+  },
+  {
+    "COD": "ADRH55056",
+    "Nombre": "Badajoz sección 06003. Dato base. Renta neta media por hogar. ",
+    "T3_Unidad": "Euros",
+    "T3_Escala": " ",
+    "MetaData": [
+      {
+        "Id": 326194,
+        "T3_Variable": "Secciones",
+        "Nombre": "Badajoz sección 06003",
+        "Codigo": "0601506003"
+      },
+      {
+        "Id": 72,
+        "T3_Variable": "Tipo de dato",
+        "Nombre": "Dato base",
+        "Codigo": ""
+      },
+      {
+        "Id": 284052,
+        "T3_Variable": "SALDOS CONTABLES",
+        "Nombre": "Renta neta media por hogar",
+        "Codigo": ""
+      }
+    ],
+    "Data": [
+      {
+        "Fecha": "2022-01-01T00:00:00.000+01:00",
+        "T3_TipoDato": "Definitivo",
+        "T3_Periodo": "A",
+        "Anyo": 2022,
+        "Valor": 17645
+      }
+    ]
+  },
+  {
+    "COD": "ADRH55054",
+    "Nombre": "Badajoz sección 06004. Dato base. Renta neta media por hogar. ",
+    "T3_Unidad": "Euros",
+    "T3_Escala": " ",
+    "MetaData": [
+      {
+        "Id": 326195,
+        "T3_Variable": "Secciones",
+        "Nombre": "Badajoz sección 06004",
+        "Codigo": "0601506004"
+      },
+      {
+        "Id": 72,
+        "T3_Variable": "Tipo de dato",
+        "Nombre": "Dato base",
+        "Codigo": ""
+      },
+      {
+        "Id": 284052,
+        "T3_Variable": "SALDOS CONTABLES",
+        "Nombre": "Renta neta media por hogar",
+        "Codigo": ""
+      }
+    ],
+    "Data": [
+      {
+        "Fecha": "2022-01-01T00:00:00.000+01:00",
+        "T3_TipoDato": "Definitivo",
+        "T3_Periodo": "A",
+        "Anyo": 2022,
+        "Valor": 18432
+      }
+    ]
+  },
+  {
+    "COD": "ADRH55052",
+    "Nombre": "Badajoz sección 06005. Dato base. Renta neta media por hogar. ",
+    "T3_Unidad": "Euros",
+    "T3_Escala": " ",
+    "MetaData": [
+      {
+        "Id": 326196,
+        "T3_Variable": "Secciones",
+        "Nombre": "Badajoz sección 06005",
+        "Codigo": "0601506005"
+      },
+      {
+        "Id": 72,
+        "T3_Variable": "Tipo de dato",
+        "Nombre": "Dato base",
+        "Codigo": ""
+      },
+      {
+        "Id": 284052,
+        "T3_Variable": "SALDOS CONTABLES",
+        "Nombre": "Renta neta media por hogar",
+        "Codigo": ""
+      }
+    ],
+    "Data": [
+      {
+        "Fecha": "2022-01-01T00:00:00.000+01:00",
+        "T3_TipoDato": "Definitivo",
+        "T3_Periodo": "A",
+        "Anyo": 2022,
+        "Valor": 18897
+      }
+    ]
+  },
+  {
+    "COD": "ADRH55050",
+    "Nombre": "Badajoz sección 06006. Dato base. Renta neta media por hogar. ",
+    "T3_Unidad": "Euros",
+    "T3_Escala": " ",
+    "MetaData": [
+      {
+        "Id": 326197,
+        "T3_Variable": "Secciones",
+        "Nombre": "Badajoz sección 06006",
+        "Codigo": "0601506006"
+      },
+      {
+        "Id": 72,
+        "T3_Variable": "Tipo de dato",
+        "Nombre": "Dato base",
+        "Codigo": ""
+      },
+      {
+        "Id": 284052,
+        "T3_Variable": "SALDOS CONTABLES",
+        "Nombre": "Renta neta media por hogar",
+        "Codigo": ""
+      }
+    ],
+    "Data": [
+      {
+        "Fecha": "2022-01-01T00:00:00.000+01:00",
+        "T3_TipoDato": "Definitivo",
+        "T3_Periodo": "A",
+        "Anyo": 2022,
+        "Valor": 19543
+      }
+    ]
+  },
+  {
+    "COD": "ADRH55048",
+    "Nombre": "Badajoz sección 06008. Dato base. Renta neta media por hogar. ",
+    "T3_Unidad": "Euros",
+    "T3_Escala": " ",
+    "MetaData": [
+      {
+        "Id": 326198,
+        "T3_Variable": "Secciones",
+        "Nombre": "Badajoz sección 06008",
+        "Codigo": "0601506008"
+      },
+      {
+        "Id": 72,
+        "T3_Variable": "Tipo de dato",
+        "Nombre": "Dato base",
+        "Codigo": ""
+      },
+      {
+        "Id": 284052,
+        "T3_Variable": "SALDOS CONTABLES",
+        "Nombre": "Renta neta media por hogar",
+        "Codigo": ""
+      }
+    ],
+    "Data": [
+      {
+        "Fecha": "2022-01-01T00:00:00.000+01:00",
+        "T3_TipoDato": "Definitivo",
+        "T3_Periodo": "A",
+        "Anyo": 2022,
+        "Valor": 15745
+      }
+    ]
+  },
+  {
+    "COD": "ADRH82026",
+    "Nombre": "Badajoz distrito 07. Dato base. Renta neta media por hogar. ",
+    "T3_Unidad": "Euros",
+    "T3_Escala": " ",
+    "MetaData": [
+      {
+        "Id": 326199,
+        "T3_Variable": "Distritos",
+        "Nombre": "Badajoz distrito 07",
+        "Codigo": "0601507"
+      },
+      {
+        "Id": 72,
+        "T3_Variable": "Tipo de dato",
+        "Nombre": "Dato base",
+        "Codigo": ""
+      },
+      {
+        "Id": 284052,
+        "T3_Variable": "SALDOS CONTABLES",
+        "Nombre": "Renta neta media por hogar",
+        "Codigo": ""
+      }
+    ],
+    "Data": [
+      {
+        "Fecha": "2022-01-01T00:00:00.000+01:00",
+        "T3_TipoDato": "Definitivo",
+        "T3_Periodo": "A",
+        "Anyo": 2022,
+        "Valor": 32108
+      }
+    ]
+  },
+  {
+    "COD": "ADRH55046",
+    "Nombre": "Badajoz sección 07001. Dato base. Renta neta media por hogar. ",
+    "T3_Unidad": "Euros",
+    "T3_Escala": " ",
+    "MetaData": [
+      {
+        "Id": 326200,
+        "T3_Variable": "Secciones",
+        "Nombre": "Badajoz sección 07001",
+        "Codigo": "0601507001"
+      },
+      {
+        "Id": 72,
+        "T3_Variable": "Tipo de dato",
+        "Nombre": "Dato base",
+        "Codigo": ""
+      },
+      {
+        "Id": 284052,
+        "T3_Variable": "SALDOS CONTABLES",
+        "Nombre": "Renta neta media por hogar",
+        "Codigo": ""
+      }
+    ],
+    "Data": [
+      {
+        "Fecha": "2022-01-01T00:00:00.000+01:00",
+        "T3_TipoDato": "Definitivo",
+        "T3_Periodo": "A",
+        "Anyo": 2022,
+        "Valor": 25875
+      }
+    ]
+  },
+  {
+    "COD": "ADRH55044",
+    "Nombre": "Badajoz sección 07002. Dato base. Renta neta media por hogar. ",
+    "T3_Unidad": "Euros",
+    "T3_Escala": " ",
+    "MetaData": [
+      {
+        "Id": 326201,
+        "T3_Variable": "Secciones",
+        "Nombre": "Badajoz sección 07002",
+        "Codigo": "0601507002"
+      },
+      {
+        "Id": 72,
+        "T3_Variable": "Tipo de dato",
+        "Nombre": "Dato base",
+        "Codigo": ""
+      },
+      {
+        "Id": 284052,
+        "T3_Variable": "SALDOS CONTABLES",
+        "Nombre": "Renta neta media por hogar",
+        "Codigo": ""
+      }
+    ],
+    "Data": [
+      {
+        "Fecha": "2022-01-01T00:00:00.000+01:00",
+        "T3_TipoDato": "Definitivo",
+        "T3_Periodo": "A",
+        "Anyo": 2022,
+        "Valor": 26521
+      }
+    ]
+  },
+  {
+    "COD": "ADRH55042",
+    "Nombre": "Badajoz sección 07003. Dato base. Renta neta media por hogar. ",
+    "T3_Unidad": "Euros",
+    "T3_Escala": " ",
+    "MetaData": [
+      {
+        "Id": 326202,
+        "T3_Variable": "Secciones",
+        "Nombre": "Badajoz sección 07003",
+        "Codigo": "0601507003"
+      },
+      {
+        "Id": 72,
+        "T3_Variable": "Tipo de dato",
+        "Nombre": "Dato base",
+        "Codigo": ""
+      },
+      {
+        "Id": 284052,
+        "T3_Variable": "SALDOS CONTABLES",
+        "Nombre": "Renta neta media por hogar",
+        "Codigo": ""
+      }
+    ],
+    "Data": [
+      {
+        "Fecha": "2022-01-01T00:00:00.000+01:00",
+        "T3_TipoDato": "Definitivo",
+        "T3_Periodo": "A",
+        "Anyo": 2022,
+        "Valor": 28856
+      }
+    ]
+  },
+  {
+    "COD": "ADRH55040",
+    "Nombre": "Badajoz sección 07004. Dato base. Renta neta media por hogar. ",
+    "T3_Unidad": "Euros",
+    "T3_Escala": " ",
+    "MetaData": [
+      {
+        "Id": 326203,
+        "T3_Variable": "Secciones",
+        "Nombre": "Badajoz sección 07004",
+        "Codigo": "0601507004"
+      },
+      {
+        "Id": 72,
+        "T3_Variable": "Tipo de dato",
+        "Nombre": "Dato base",
+        "Codigo": ""
+      },
+      {
+        "Id": 284052,
+        "T3_Variable": "SALDOS CONTABLES",
+        "Nombre": "Renta neta media por hogar",
+        "Codigo": ""
+      }
+    ],
+    "Data": [
+      {
+        "Fecha": "2022-01-01T00:00:00.000+01:00",
+        "T3_TipoDato": "Definitivo",
+        "T3_Periodo": "A",
+        "Anyo": 2022,
+        "Valor": 30882
+      }
+    ]
+  },
+  {
+    "COD": "ADRH55038",
+    "Nombre": "Badajoz sección 07005. Dato base. Renta neta media por hogar. ",
+    "T3_Unidad": "Euros",
+    "T3_Escala": " ",
+    "MetaData": [
+      {
+        "Id": 326204,
+        "T3_Variable": "Secciones",
+        "Nombre": "Badajoz sección 07005",
+        "Codigo": "0601507005"
+      },
+      {
+        "Id": 72,
+        "T3_Variable": "Tipo de dato",
+        "Nombre": "Dato base",
+        "Codigo": ""
+      },
+      {
+        "Id": 284052,
+        "T3_Variable": "SALDOS CONTABLES",
+        "Nombre": "Renta neta media por hogar",
+        "Codigo": ""
+      }
+    ],
+    "Data": [
+      {
+        "Fecha": "2022-01-01T00:00:00.000+01:00",
+        "T3_TipoDato": "Definitivo",
+        "T3_Periodo": "A",
+        "Anyo": 2022,
+        "Valor": 25042
+      }
+    ]
+  },
+  {
+    "COD": "ADRH55036",
+    "Nombre": "Badajoz sección 07006. Dato base. Renta neta media por hogar. ",
+    "T3_Unidad": "Euros",
+    "T3_Escala": " ",
+    "MetaData": [
+      {
+        "Id": 326205,
+        "T3_Variable": "Secciones",
+        "Nombre": "Badajoz sección 07006",
+        "Codigo": "0601507006"
+      },
+      {
+        "Id": 72,
+        "T3_Variable": "Tipo de dato",
+        "Nombre": "Dato base",
+        "Codigo": ""
+      },
+      {
+        "Id": 284052,
+        "T3_Variable": "SALDOS CONTABLES",
+        "Nombre": "Renta neta media por hogar",
+        "Codigo": ""
+      }
+    ],
+    "Data": [
+      {
+        "Fecha": "2022-01-01T00:00:00.000+01:00",
+        "T3_TipoDato": "Definitivo",
+        "T3_Periodo": "A",
+        "Anyo": 2022,
+        "Valor": 37777
+      }
+    ]
+  },
+  {
+    "COD": "ADRH55034",
+    "Nombre": "Badajoz sección 07007. Dato base. Renta neta media por hogar. ",
+    "T3_Unidad": "Euros",
+    "T3_Escala": " ",
+    "MetaData": [
+      {
+        "Id": 326206,
+        "T3_Variable": "Secciones",
+        "Nombre": "Badajoz sección 07007",
+        "Codigo": "0601507007"
+      },
+      {
+        "Id": 72,
+        "T3_Variable": "Tipo de dato",
+        "Nombre": "Dato base",
+        "Codigo": ""
+      },
+      {
+        "Id": 284052,
+        "T3_Variable": "SALDOS CONTABLES",
+        "Nombre": "Renta neta media por hogar",
+        "Codigo": ""
+      }
+    ],
+    "Data": [
+      {
+        "Fecha": "2022-01-01T00:00:00.000+01:00",
+        "T3_TipoDato": "Definitivo",
+        "T3_Periodo": "A",
+        "Anyo": 2022,
+        "Valor": 39092
+      }
+    ]
+  },
+  {
+    "COD": "ADRH55032",
+    "Nombre": "Badajoz sección 07008. Dato base. Renta neta media por hogar. ",
+    "T3_Unidad": "Euros",
+    "T3_Escala": " ",
+    "MetaData": [
+      {
+        "Id": 326207,
+        "T3_Variable": "Secciones",
+        "Nombre": "Badajoz sección 07008",
+        "Codigo": "0601507008"
+      },
+      {
+        "Id": 72,
+        "T3_Variable": "Tipo de dato",
+        "Nombre": "Dato base",
+        "Codigo": ""
+      },
+      {
+        "Id": 284052,
+        "T3_Variable": "SALDOS CONTABLES",
+        "Nombre": "Renta neta media por hogar",
+        "Codigo": ""
+      }
+    ],
+    "Data": [
+      {
+        "Fecha": "2022-01-01T00:00:00.000+01:00",
+        "T3_TipoDato": "Definitivo",
+        "T3_Periodo": "A",
+        "Anyo": 2022,
+        "Valor": 29441
+      }
+    ]
+  },
+  {
+    "COD": "ADRH55030",
+    "Nombre": "Badajoz sección 07009. Dato base. Renta neta media por hogar. ",
+    "T3_Unidad": "Euros",
+    "T3_Escala": " ",
+    "MetaData": [
+      {
+        "Id": 326208,
+        "T3_Variable": "Secciones",
+        "Nombre": "Badajoz sección 07009",
+        "Codigo": "0601507009"
+      },
+      {
+        "Id": 72,
+        "T3_Variable": "Tipo de dato",
+        "Nombre": "Dato base",
+        "Codigo": ""
+      },
+      {
+        "Id": 284052,
+        "T3_Variable": "SALDOS CONTABLES",
+        "Nombre": "Renta neta media por hogar",
+        "Codigo": ""
+      }
+    ],
+    "Data": [
+      {
+        "Fecha": "2022-01-01T00:00:00.000+01:00",
+        "T3_TipoDato": "Definitivo",
+        "T3_Periodo": "A",
+        "Anyo": 2022,
+        "Valor": 25465
+      }
+    ]
+  },
+  {
+    "COD": "ADRH55028",
+    "Nombre": "Badajoz sección 07010. Dato base. Renta neta media por hogar. ",
+    "T3_Unidad": "Euros",
+    "T3_Escala": " ",
+    "MetaData": [
+      {
+        "Id": 326209,
+        "T3_Variable": "Secciones",
+        "Nombre": "Badajoz sección 07010",
+        "Codigo": "0601507010"
+      },
+      {
+        "Id": 72,
+        "T3_Variable": "Tipo de dato",
+        "Nombre": "Dato base",
+        "Codigo": ""
+      },
+      {
+        "Id": 284052,
+        "T3_Variable": "SALDOS CONTABLES",
+        "Nombre": "Renta neta media por hogar",
+        "Codigo": ""
+      }
+    ],
+    "Data": [
+      {
+        "Fecha": "2022-01-01T00:00:00.000+01:00",
+        "T3_TipoDato": "Definitivo",
+        "T3_Periodo": "A",
+        "Anyo": 2022,
+        "Valor": 27125
+      }
+    ]
+  },
+  {
+    "COD": "ADRH55026",
+    "Nombre": "Badajoz sección 07011. Dato base. Renta neta media por hogar. ",
+    "T3_Unidad": "Euros",
+    "T3_Escala": " ",
+    "MetaData": [
+      {
+        "Id": 326210,
+        "T3_Variable": "Secciones",
+        "Nombre": "Badajoz sección 07011",
+        "Codigo": "0601507011"
+      },
+      {
+        "Id": 72,
+        "T3_Variable": "Tipo de dato",
+        "Nombre": "Dato base",
+        "Codigo": ""
+      },
+      {
+        "Id": 284052,
+        "T3_Variable": "SALDOS CONTABLES",
+        "Nombre": "Renta neta media por hogar",
+        "Codigo": ""
+      }
+    ],
+    "Data": [
+      {
+        "Fecha": "2022-01-01T00:00:00.000+01:00",
+        "T3_TipoDato": "Definitivo",
+        "T3_Periodo": "A",
+        "Anyo": 2022,
+        "Valor": 50492
+      }
+    ]
+  },
+  {
+    "COD": "ADRH55024",
+    "Nombre": "Badajoz sección 07012. Dato base. Renta neta media por hogar. ",
+    "T3_Unidad": "Euros",
+    "T3_Escala": " ",
+    "MetaData": [
+      {
+        "Id": 326211,
+        "T3_Variable": "Secciones",
+        "Nombre": "Badajoz sección 07012",
+        "Codigo": "0601507012"
+      },
+      {
+        "Id": 72,
+        "T3_Variable": "Tipo de dato",
+        "Nombre": "Dato base",
+        "Codigo": ""
+      },
+      {
+        "Id": 284052,
+        "T3_Variable": "SALDOS CONTABLES",
+        "Nombre": "Renta neta media por hogar",
+        "Codigo": ""
+      }
+    ],
+    "Data": [
+      {
+        "Fecha": "2022-01-01T00:00:00.000+01:00",
+        "T3_TipoDato": "Definitivo",
+        "T3_Periodo": "A",
+        "Anyo": 2022,
+        "Valor": 23317
+      }
+    ]
+  },
+  {
+    "COD": "ADRH55022",
+    "Nombre": "Badajoz sección 07013. Dato base. Renta neta media por hogar. ",
+    "T3_Unidad": "Euros",
+    "T3_Escala": " ",
+    "MetaData": [
+      {
+        "Id": 326212,
+        "T3_Variable": "Secciones",
+        "Nombre": "Badajoz sección 07013",
+        "Codigo": "0601507013"
+      },
+      {
+        "Id": 72,
+        "T3_Variable": "Tipo de dato",
+        "Nombre": "Dato base",
+        "Codigo": ""
+      },
+      {
+        "Id": 284052,
+        "T3_Variable": "SALDOS CONTABLES",
+        "Nombre": "Renta neta media por hogar",
+        "Codigo": ""
+      }
+    ],
+    "Data": [
+      {
+        "Fecha": "2022-01-01T00:00:00.000+01:00",
+        "T3_TipoDato": "Definitivo",
+        "T3_Periodo": "A",
+        "Anyo": 2022,
+        "Valor": 56112
+      }
+    ]
+  },
+  {
+    "COD": "ADRH82024",
+    "Nombre": "Badajoz distrito 08. Dato base. Renta neta media por hogar. ",
+    "T3_Unidad": "Euros",
+    "T3_Escala": " ",
+    "MetaData": [
+      {
+        "Id": 326213,
+        "T3_Variable": "Distritos",
+        "Nombre": "Badajoz distrito 08",
+        "Codigo": "0601508"
+      },
+      {
+        "Id": 72,
+        "T3_Variable": "Tipo de dato",
+        "Nombre": "Dato base",
+        "Codigo": ""
+      },
+      {
+        "Id": 284052,
+        "T3_Variable": "SALDOS CONTABLES",
+        "Nombre": "Renta neta media por hogar",
+        "Codigo": ""
+      }
+    ],
+    "Data": [
+      {
+        "Fecha": "2022-01-01T00:00:00.000+01:00",
+        "T3_TipoDato": "Definitivo",
+        "T3_Periodo": "A",
+        "Anyo": 2022,
+        "Valor": 28633
+      }
+    ]
+  },
+  {
+    "COD": "ADRH55020",
+    "Nombre": "Badajoz sección 08001. Dato base. Renta neta media por hogar. ",
+    "T3_Unidad": "Euros",
+    "T3_Escala": " ",
+    "MetaData": [
+      {
+        "Id": 326214,
+        "T3_Variable": "Secciones",
+        "Nombre": "Badajoz sección 08001",
+        "Codigo": "0601508001"
+      },
+      {
+        "Id": 72,
+        "T3_Variable": "Tipo de dato",
+        "Nombre": "Dato base",
+        "Codigo": ""
+      },
+      {
+        "Id": 284052,
+        "T3_Variable": "SALDOS CONTABLES",
+        "Nombre": "Renta neta media por hogar",
+        "Codigo": ""
+      }
+    ],
+    "Data": [
+      {
+        "Fecha": "2022-01-01T00:00:00.000+01:00",
+        "T3_TipoDato": "Definitivo",
+        "T3_Periodo": "A",
+        "Anyo": 2022,
+        "Valor": 26725
+      }
+    ]
+  },
+  {
+    "COD": "ADRH55018",
+    "Nombre": "Badajoz sección 08002. Dato base. Renta neta media por hogar. ",
+    "T3_Unidad": "Euros",
+    "T3_Escala": " ",
+    "MetaData": [
+      {
+        "Id": 326215,
+        "T3_Variable": "Secciones",
+        "Nombre": "Badajoz sección 08002",
+        "Codigo": "0601508002"
+      },
+      {
+        "Id": 72,
+        "T3_Variable": "Tipo de dato",
+        "Nombre": "Dato base",
+        "Codigo": ""
+      },
+      {
+        "Id": 284052,
+        "T3_Variable": "SALDOS CONTABLES",
+        "Nombre": "Renta neta media por hogar",
+        "Codigo": ""
+      }
+    ],
+    "Data": [
+      {
+        "Fecha": "2022-01-01T00:00:00.000+01:00",
+        "T3_TipoDato": "Definitivo",
+        "T3_Periodo": "A",
+        "Anyo": 2022,
+        "Valor": 25634
+      }
+    ]
+  },
+  {
+    "COD": "ADRH55016",
+    "Nombre": "Badajoz sección 08004. Dato base. Renta neta media por hogar. ",
+    "T3_Unidad": "Euros",
+    "T3_Escala": " ",
+    "MetaData": [
+      {
+        "Id": 326216,
+        "T3_Variable": "Secciones",
+        "Nombre": "Badajoz sección 08004",
+        "Codigo": "0601508004"
+      },
+      {
+        "Id": 72,
+        "T3_Variable": "Tipo de dato",
+        "Nombre": "Dato base",
+        "Codigo": ""
+      },
+      {
+        "Id": 284052,
+        "T3_Variable": "SALDOS CONTABLES",
+        "Nombre": "Renta neta media por hogar",
+        "Codigo": ""
+      }
+    ],
+    "Data": [
+      {
+        "Fecha": "2022-01-01T00:00:00.000+01:00",
+        "T3_TipoDato": "Definitivo",
+        "T3_Periodo": "A",
+        "Anyo": 2022,
+        "Valor": 27263
+      }
+    ]
+  },
+  {
+    "COD": "ADRH55014",
+    "Nombre": "Badajoz sección 08006. Dato base. Renta neta media por hogar. ",
+    "T3_Unidad": "Euros",
+    "T3_Escala": " ",
+    "MetaData": [
+      {
+        "Id": 326217,
+        "T3_Variable": "Secciones",
+        "Nombre": "Badajoz sección 08006",
+        "Codigo": "0601508006"
+      },
+      {
+        "Id": 72,
+        "T3_Variable": "Tipo de dato",
+        "Nombre": "Dato base",
+        "Codigo": ""
+      },
+      {
+        "Id": 284052,
+        "T3_Variable": "SALDOS CONTABLES",
+        "Nombre": "Renta neta media por hogar",
+        "Codigo": ""
+      }
+    ],
+    "Data": []
+  },
+  {
+    "COD": "ADRH55012",
+    "Nombre": "Badajoz sección 08009. Dato base. Renta neta media por hogar. ",
+    "T3_Unidad": "Euros",
+    "T3_Escala": " ",
+    "MetaData": [
+      {
+        "Id": 326218,
+        "T3_Variable": "Secciones",
+        "Nombre": "Badajoz sección 08009",
+        "Codigo": "0601508009"
+      },
+      {
+        "Id": 72,
+        "T3_Variable": "Tipo de dato",
+        "Nombre": "Dato base",
+        "Codigo": ""
+      },
+      {
+        "Id": 284052,
+        "T3_Variable": "SALDOS CONTABLES",
+        "Nombre": "Renta neta media por hogar",
+        "Codigo": ""
+      }
+    ],
+    "Data": [
+      {
+        "Fecha": "2022-01-01T00:00:00.000+01:00",
+        "T3_TipoDato": "Definitivo",
+        "T3_Periodo": "A",
+        "Anyo": 2022,
+        "Valor": 28002
+      }
+    ]
+  },
+  {
+    "COD": "ADRH55010",
+    "Nombre": "Badajoz sección 08010. Dato base. Renta neta media por hogar. ",
+    "T3_Unidad": "Euros",
+    "T3_Escala": " ",
+    "MetaData": [
+      {
+        "Id": 326219,
+        "T3_Variable": "Secciones",
+        "Nombre": "Badajoz sección 08010",
+        "Codigo": "0601508010"
+      },
+      {
+        "Id": 72,
+        "T3_Variable": "Tipo de dato",
+        "Nombre": "Dato base",
+        "Codigo": ""
+      },
+      {
+        "Id": 284052,
+        "T3_Variable": "SALDOS CONTABLES",
+        "Nombre": "Renta neta media por hogar",
+        "Codigo": ""
+      }
+    ],
+    "Data": [
+      {
+        "Fecha": "2022-01-01T00:00:00.000+01:00",
+        "T3_TipoDato": "Definitivo",
+        "T3_Periodo": "A",
+        "Anyo": 2022,
+        "Valor": 29659
+      }
+    ]
+  },
+  {
+    "COD": "ADRH55008",
+    "Nombre": "Badajoz sección 08011. Dato base. Renta neta media por hogar. ",
+    "T3_Unidad": "Euros",
+    "T3_Escala": " ",
+    "MetaData": [
+      {
+        "Id": 326220,
+        "T3_Variable": "Secciones",
+        "Nombre": "Badajoz sección 08011",
+        "Codigo": "0601508011"
+      },
+      {
+        "Id": 72,
+        "T3_Variable": "Tipo de dato",
+        "Nombre": "Dato base",
+        "Codigo": ""
+      },
+      {
+        "Id": 284052,
+        "T3_Variable": "SALDOS CONTABLES",
+        "Nombre": "Renta neta media por hogar",
+        "Codigo": ""
+      }
+    ],
+    "Data": []
+  },
+  {
+    "COD": "ADRH55006",
+    "Nombre": "Badajoz sección 08012. Dato base. Renta neta media por hogar. ",
+    "T3_Unidad": "Euros",
+    "T3_Escala": " ",
+    "MetaData": [
+      {
+        "Id": 326221,
+        "T3_Variable": "Secciones",
+        "Nombre": "Badajoz sección 08012",
+        "Codigo": "0601508012"
+      },
+      {
+        "Id": 72,
+        "T3_Variable": "Tipo de dato",
+        "Nombre": "Dato base",
+        "Codigo": ""
+      },
+      {
+        "Id": 284052,
+        "T3_Variable": "SALDOS CONTABLES",
+        "Nombre": "Renta neta media por hogar",
+        "Codigo": ""
+      }
+    ],
+    "Data": [
+      {
+        "Fecha": "2022-01-01T00:00:00.000+01:00",
+        "T3_TipoDato": "Definitivo",
+        "T3_Periodo": "A",
+        "Anyo": 2022,
+        "Valor": 30657
+      }
+    ]
+  },
+  {
+    "COD": "ADRH55004",
+    "Nombre": "Badajoz sección 08013. Dato base. Renta neta media por hogar. ",
+    "T3_Unidad": "Euros",
+    "T3_Escala": " ",
+    "MetaData": [
+      {
+        "Id": 326222,
+        "T3_Variable": "Secciones",
+        "Nombre": "Badajoz sección 08013",
+        "Codigo": "0601508013"
+      },
+      {
+        "Id": 72,
+        "T3_Variable": "Tipo de dato",
+        "Nombre": "Dato base",
+        "Codigo": ""
+      },
+      {
+        "Id": 284052,
+        "T3_Variable": "SALDOS CONTABLES",
+        "Nombre": "Renta neta media por hogar",
+        "Codigo": ""
+      }
+    ],
+    "Data": [
+      {
+        "Fecha": "2022-01-01T00:00:00.000+01:00",
+        "T3_TipoDato": "Definitivo",
+        "T3_Periodo": "A",
+        "Anyo": 2022,
+        "Valor": 34563
+      }
+    ]
+  },
+  {
+    "COD": "ADRH55002",
+    "Nombre": "Badajoz sección 08014. Dato base. Renta neta media por hogar. ",
+    "T3_Unidad": "Euros",
+    "T3_Escala": " ",
+    "MetaData": [
+      {
+        "Id": 326223,
+        "T3_Variable": "Secciones",
+        "Nombre": "Badajoz sección 08014",
+        "Codigo": "0601508014"
+      },
+      {
+        "Id": 72,
+        "T3_Variable": "Tipo de dato",
+        "Nombre": "Dato base",
+        "Codigo": ""
+      },
+      {
+        "Id": 284052,
+        "T3_Variable": "SALDOS CONTABLES",
+        "Nombre": "Renta neta media por hogar",
+        "Codigo": ""
+      }
+    ],
+    "Data": [
+      {
+        "Fecha": "2022-01-01T00:00:00.000+01:00",
+        "T3_TipoDato": "Definitivo",
+        "T3_Periodo": "A",
+        "Anyo": 2022,
+        "Valor": 30248
+      }
+    ]
+  },
+  {
+    "COD": "ADRH9822702",
+    "Nombre": "Badajoz sección 08015. Dato base. Renta neta media por hogar. ",
+    "T3_Unidad": "Euros",
+    "T3_Escala": " ",
+    "MetaData": [
+      {
+        "Id": 382296,
+        "T3_Variable": "Secciones",
+        "Nombre": "Badajoz sección 08015",
+        "Codigo": "0601508015"
+      },
+      {
+        "Id": 72,
+        "T3_Variable": "Tipo de dato",
+        "Nombre": "Dato base",
+        "Codigo": ""
+      },
+      {
+        "Id": 284052,
+        "T3_Variable": "SALDOS CONTABLES",
+        "Nombre": "Renta neta media por hogar",
+        "Codigo": ""
+      }
+    ],
+    "Data": [
+      {
+        "Fecha": "2022-01-01T00:00:00.000+01:00",
+        "T3_TipoDato": "Definitivo",
+        "T3_Periodo": "A",
+        "Anyo": 2022,
+        "Valor": 25855
+      }
+    ]
+  },
+  {
+    "COD": "ADRH82022",
+    "Nombre": "Badajoz distrito 09. Dato base. Renta neta media por hogar. ",
+    "T3_Unidad": "Euros",
+    "T3_Escala": " ",
+    "MetaData": [
+      {
+        "Id": 326224,
+        "T3_Variable": "Distritos",
+        "Nombre": "Badajoz distrito 09",
+        "Codigo": "0601509"
+      },
+      {
+        "Id": 72,
+        "T3_Variable": "Tipo de dato",
+        "Nombre": "Dato base",
+        "Codigo": ""
+      },
+      {
+        "Id": 284052,
+        "T3_Variable": "SALDOS CONTABLES",
+        "Nombre": "Renta neta media por hogar",
+        "Codigo": ""
+      }
+    ],
+    "Data": [
+      {
+        "Fecha": "2022-01-01T00:00:00.000+01:00",
+        "T3_TipoDato": "Definitivo",
+        "T3_Periodo": "A",
+        "Anyo": 2022,
+        "Valor": 38965
+      }
+    ]
+  },
+  {
+    "COD": "ADRH55000",
+    "Nombre": "Badajoz sección 09008. Dato base. Renta neta media por hogar. ",
+    "T3_Unidad": "Euros",
+    "T3_Escala": " ",
+    "MetaData": [
+      {
+        "Id": 326225,
+        "T3_Variable": "Secciones",
+        "Nombre": "Badajoz sección 09008",
+        "Codigo": "0601509008"
+      },
+      {
+        "Id": 72,
+        "T3_Variable": "Tipo de dato",
+        "Nombre": "Dato base",
+        "Codigo": ""
+      },
+      {
+        "Id": 284052,
+        "T3_Variable": "SALDOS CONTABLES",
+        "Nombre": "Renta neta media por hogar",
+        "Codigo": ""
+      }
+    ],
+    "Data": [
+      {
+        "Fecha": "2022-01-01T00:00:00.000+01:00",
+        "T3_TipoDato": "Definitivo",
+        "T3_Periodo": "A",
+        "Anyo": 2022,
+        "Valor": 33433
+      }
+    ]
+  },
+  {
+    "COD": "ADRH54998",
+    "Nombre": "Badajoz sección 09009. Dato base. Renta neta media por hogar. ",
+    "T3_Unidad": "Euros",
+    "T3_Escala": " ",
+    "MetaData": [
+      {
+        "Id": 326226,
+        "T3_Variable": "Secciones",
+        "Nombre": "Badajoz sección 09009",
+        "Codigo": "0601509009"
+      },
+      {
+        "Id": 72,
+        "T3_Variable": "Tipo de dato",
+        "Nombre": "Dato base",
+        "Codigo": ""
+      },
+      {
+        "Id": 284052,
+        "T3_Variable": "SALDOS CONTABLES",
+        "Nombre": "Renta neta media por hogar",
+        "Codigo": ""
+      }
+    ],
+    "Data": [
+      {
+        "Fecha": "2022-01-01T00:00:00.000+01:00",
+        "T3_TipoDato": "Definitivo",
+        "T3_Periodo": "A",
+        "Anyo": 2022,
+        "Valor": 28984
+      }
+    ]
+  },
+  {
+    "COD": "ADRH54996",
+    "Nombre": "Badajoz sección 09010. Dato base. Renta neta media por hogar. ",
+    "T3_Unidad": "Euros",
+    "T3_Escala": " ",
+    "MetaData": [
+      {
+        "Id": 326227,
+        "T3_Variable": "Secciones",
+        "Nombre": "Badajoz sección 09010",
+        "Codigo": "0601509010"
+      },
+      {
+        "Id": 72,
+        "T3_Variable": "Tipo de dato",
+        "Nombre": "Dato base",
+        "Codigo": ""
+      },
+      {
+        "Id": 284052,
+        "T3_Variable": "SALDOS CONTABLES",
+        "Nombre": "Renta neta media por hogar",
+        "Codigo": ""
+      }
+    ],
+    "Data": [
+      {
+        "Fecha": "2022-01-01T00:00:00.000+01:00",
+        "T3_TipoDato": "Definitivo",
+        "T3_Periodo": "A",
+        "Anyo": 2022,
+        "Valor": 26701
+      }
+    ]
+  },
+  {
+    "COD": "ADRH54994",
+    "Nombre": "Badajoz sección 09018. Dato base. Renta neta media por hogar. ",
+    "T3_Unidad": "Euros",
+    "T3_Escala": " ",
+    "MetaData": [
+      {
+        "Id": 326228,
+        "T3_Variable": "Secciones",
+        "Nombre": "Badajoz sección 09018",
+        "Codigo": "0601509018"
+      },
+      {
+        "Id": 72,
+        "T3_Variable": "Tipo de dato",
+        "Nombre": "Dato base",
+        "Codigo": ""
+      },
+      {
+        "Id": 284052,
+        "T3_Variable": "SALDOS CONTABLES",
+        "Nombre": "Renta neta media por hogar",
+        "Codigo": ""
+      }
+    ],
+    "Data": [
+      {
+        "Fecha": "2022-01-01T00:00:00.000+01:00",
+        "T3_TipoDato": "Definitivo",
+        "T3_Periodo": "A",
+        "Anyo": 2022,
+        "Valor": 28375
+      }
+    ]
+  },
+  {
+    "COD": "ADRH54992",
+    "Nombre": "Badajoz sección 09019. Dato base. Renta neta media por hogar. ",
+    "T3_Unidad": "Euros",
+    "T3_Escala": " ",
+    "MetaData": [
+      {
+        "Id": 326229,
+        "T3_Variable": "Secciones",
+        "Nombre": "Badajoz sección 09019",
+        "Codigo": "0601509019"
+      },
+      {
+        "Id": 72,
+        "T3_Variable": "Tipo de dato",
+        "Nombre": "Dato base",
+        "Codigo": ""
+      },
+      {
+        "Id": 284052,
+        "T3_Variable": "SALDOS CONTABLES",
+        "Nombre": "Renta neta media por hogar",
+        "Codigo": ""
+      }
+    ],
+    "Data": [
+      {
+        "Fecha": "2022-01-01T00:00:00.000+01:00",
+        "T3_TipoDato": "Definitivo",
+        "T3_Periodo": "A",
+        "Anyo": 2022,
+        "Valor": 23118
+      }
+    ]
+  },
+  {
+    "COD": "ADRH54990",
+    "Nombre": "Badajoz sección 09021. Dato base. Renta neta media por hogar. ",
+    "T3_Unidad": "Euros",
+    "T3_Escala": " ",
+    "MetaData": [
+      {
+        "Id": 326230,
+        "T3_Variable": "Secciones",
+        "Nombre": "Badajoz sección 09021",
+        "Codigo": "0601509021"
+      },
+      {
+        "Id": 72,
+        "T3_Variable": "Tipo de dato",
+        "Nombre": "Dato base",
+        "Codigo": ""
+      },
+      {
+        "Id": 284052,
+        "T3_Variable": "SALDOS CONTABLES",
+        "Nombre": "Renta neta media por hogar",
+        "Codigo": ""
+      }
+    ],
+    "Data": [
+      {
+        "Fecha": "2022-01-01T00:00:00.000+01:00",
+        "T3_TipoDato": "Definitivo",
+        "T3_Periodo": "A",
+        "Anyo": 2022,
+        "Valor": 38323
+      }
+    ]
+  },
+  {
+    "COD": "ADRH54988",
+    "Nombre": "Badajoz sección 09022. Dato base. Renta neta media por hogar. ",
+    "T3_Unidad": "Euros",
+    "T3_Escala": " ",
+    "MetaData": [
+      {
+        "Id": 326231,
+        "T3_Variable": "Secciones",
+        "Nombre": "Badajoz sección 09022",
+        "Codigo": "0601509022"
+      },
+      {
+        "Id": 72,
+        "T3_Variable": "Tipo de dato",
+        "Nombre": "Dato base",
+        "Codigo": ""
+      },
+      {
+        "Id": 284052,
+        "T3_Variable": "SALDOS CONTABLES",
+        "Nombre": "Renta neta media por hogar",
+        "Codigo": ""
+      }
+    ],
+    "Data": [
+      {
+        "Fecha": "2022-01-01T00:00:00.000+01:00",
+        "T3_TipoDato": "Definitivo",
+        "T3_Periodo": "A",
+        "Anyo": 2022,
+        "Valor": 40216
+      }
+    ]
+  },
+  {
+    "COD": "ADRH54986",
+    "Nombre": "Badajoz sección 09023. Dato base. Renta neta media por hogar. ",
+    "T3_Unidad": "Euros",
+    "T3_Escala": " ",
+    "MetaData": [
+      {
+        "Id": 326232,
+        "T3_Variable": "Secciones",
+        "Nombre": "Badajoz sección 09023",
+        "Codigo": "0601509023"
+      },
+      {
+        "Id": 72,
+        "T3_Variable": "Tipo de dato",
+        "Nombre": "Dato base",
+        "Codigo": ""
+      },
+      {
+        "Id": 284052,
+        "T3_Variable": "SALDOS CONTABLES",
+        "Nombre": "Renta neta media por hogar",
+        "Codigo": ""
+      }
+    ],
+    "Data": [
+      {
+        "Fecha": "2022-01-01T00:00:00.000+01:00",
+        "T3_TipoDato": "Definitivo",
+        "T3_Periodo": "A",
+        "Anyo": 2022,
+        "Valor": 31037
+      }
+    ]
+  },
+  {
+    "COD": "ADRH54984",
+    "Nombre": "Badajoz sección 09024. Dato base. Renta neta media por hogar. ",
+    "T3_Unidad": "Euros",
+    "T3_Escala": " ",
+    "MetaData": [
+      {
+        "Id": 326233,
+        "T3_Variable": "Secciones",
+        "Nombre": "Badajoz sección 09024",
+        "Codigo": "0601509024"
+      },
+      {
+        "Id": 72,
+        "T3_Variable": "Tipo de dato",
+        "Nombre": "Dato base",
+        "Codigo": ""
+      },
+      {
+        "Id": 284052,
+        "T3_Variable": "SALDOS CONTABLES",
+        "Nombre": "Renta neta media por hogar",
+        "Codigo": ""
+      }
+    ],
+    "Data": [
+      {
+        "Fecha": "2022-01-01T00:00:00.000+01:00",
+        "T3_TipoDato": "Definitivo",
+        "T3_Periodo": "A",
+        "Anyo": 2022,
+        "Valor": 45653
+      }
+    ]
+  },
+  {
+    "COD": "ADRH54982",
+    "Nombre": "Badajoz sección 09026. Dato base. Renta neta media por hogar. ",
+    "T3_Unidad": "Euros",
+    "T3_Escala": " ",
+    "MetaData": [
+      {
+        "Id": 326234,
+        "T3_Variable": "Secciones",
+        "Nombre": "Badajoz sección 09026",
+        "Codigo": "0601509026"
+      },
+      {
+        "Id": 72,
+        "T3_Variable": "Tipo de dato",
+        "Nombre": "Dato base",
+        "Codigo": ""
+      },
+      {
+        "Id": 284052,
+        "T3_Variable": "SALDOS CONTABLES",
+        "Nombre": "Renta neta media por hogar",
+        "Codigo": ""
+      }
+    ],
+    "Data": [
+      {
+        "Fecha": "2022-01-01T00:00:00.000+01:00",
+        "T3_TipoDato": "Definitivo",
+        "T3_Periodo": "A",
+        "Anyo": 2022,
+        "Valor": 39550
+      }
+    ]
+  },
+  {
+    "COD": "ADRH54980",
+    "Nombre": "Badajoz sección 09027. Dato base. Renta neta media por hogar. ",
+    "T3_Unidad": "Euros",
+    "T3_Escala": " ",
+    "MetaData": [
+      {
+        "Id": 326235,
+        "T3_Variable": "Secciones",
+        "Nombre": "Badajoz sección 09027",
+        "Codigo": "0601509027"
+      },
+      {
+        "Id": 72,
+        "T3_Variable": "Tipo de dato",
+        "Nombre": "Dato base",
+        "Codigo": ""
+      },
+      {
+        "Id": 284052,
+        "T3_Variable": "SALDOS CONTABLES",
+        "Nombre": "Renta neta media por hogar",
+        "Codigo": ""
+      }
+    ],
+    "Data": [
+      {
+        "Fecha": "2022-01-01T00:00:00.000+01:00",
+        "T3_TipoDato": "Definitivo",
+        "T3_Periodo": "A",
+        "Anyo": 2022,
+        "Valor": 46132
+      }
+    ]
+  },
+  {
+    "COD": "ADRH54978",
+    "Nombre": "Badajoz sección 09028. Dato base. Renta neta media por hogar. ",
+    "T3_Unidad": "Euros",
+    "T3_Escala": " ",
+    "MetaData": [
+      {
+        "Id": 326236,
+        "T3_Variable": "Secciones",
+        "Nombre": "Badajoz sección 09028",
+        "Codigo": "0601509028"
+      },
+      {
+        "Id": 72,
+        "T3_Variable": "Tipo de dato",
+        "Nombre": "Dato base",
+        "Codigo": ""
+      },
+      {
+        "Id": 284052,
+        "T3_Variable": "SALDOS CONTABLES",
+        "Nombre": "Renta neta media por hogar",
+        "Codigo": ""
+      }
+    ],
+    "Data": [
+      {
+        "Fecha": "2022-01-01T00:00:00.000+01:00",
+        "T3_TipoDato": "Definitivo",
+        "T3_Periodo": "A",
+        "Anyo": 2022,
+        "Valor": 35762
+      }
+    ]
+  },
+  {
+    "COD": "ADRH54976",
+    "Nombre": "Badajoz sección 09029. Dato base. Renta neta media por hogar. ",
+    "T3_Unidad": "Euros",
+    "T3_Escala": " ",
+    "MetaData": [
+      {
+        "Id": 326237,
+        "T3_Variable": "Secciones",
+        "Nombre": "Badajoz sección 09029",
+        "Codigo": "0601509029"
+      },
+      {
+        "Id": 72,
+        "T3_Variable": "Tipo de dato",
+        "Nombre": "Dato base",
+        "Codigo": ""
+      },
+      {
+        "Id": 284052,
+        "T3_Variable": "SALDOS CONTABLES",
+        "Nombre": "Renta neta media por hogar",
+        "Codigo": ""
+      }
+    ],
+    "Data": [
+      {
+        "Fecha": "2022-01-01T00:00:00.000+01:00",
+        "T3_TipoDato": "Definitivo",
+        "T3_Periodo": "A",
+        "Anyo": 2022,
+        "Valor": 43174
+      }
+    ]
+  },
+  {
+    "COD": "ADRH54974",
+    "Nombre": "Badajoz sección 09030. Dato base. Renta neta media por hogar. ",
+    "T3_Unidad": "Euros",
+    "T3_Escala": " ",
+    "MetaData": [
+      {
+        "Id": 326238,
+        "T3_Variable": "Secciones",
+        "Nombre": "Badajoz sección 09030",
+        "Codigo": "0601509030"
+      },
+      {
+        "Id": 72,
+        "T3_Variable": "Tipo de dato",
+        "Nombre": "Dato base",
+        "Codigo": ""
+      },
+      {
+        "Id": 284052,
+        "T3_Variable": "SALDOS CONTABLES",
+        "Nombre": "Renta neta media por hogar",
+        "Codigo": ""
+      }
+    ],
+    "Data": [
+      {
+        "Fecha": "2022-01-01T00:00:00.000+01:00",
+        "T3_TipoDato": "Definitivo",
+        "T3_Periodo": "A",
+        "Anyo": 2022,
+        "Valor": 38729
+      }
+    ]
+  },
+  {
+    "COD": "ADRH54972",
+    "Nombre": "Badajoz sección 09031. Dato base. Renta neta media por hogar. ",
+    "T3_Unidad": "Euros",
+    "T3_Escala": " ",
+    "MetaData": [
+      {
+        "Id": 326239,
+        "T3_Variable": "Secciones",
+        "Nombre": "Badajoz sección 09031",
+        "Codigo": "0601509031"
+      },
+      {
+        "Id": 72,
+        "T3_Variable": "Tipo de dato",
+        "Nombre": "Dato base",
+        "Codigo": ""
+      },
+      {
+        "Id": 284052,
+        "T3_Variable": "SALDOS CONTABLES",
+        "Nombre": "Renta neta media por hogar",
+        "Codigo": ""
+      }
+    ],
+    "Data": [
+      {
+        "Fecha": "2022-01-01T00:00:00.000+01:00",
+        "T3_TipoDato": "Definitivo",
+        "T3_Periodo": "A",
+        "Anyo": 2022,
+        "Valor": 41446
+      }
+    ]
+  },
+  {
+    "COD": "ADRH54970",
+    "Nombre": "Badajoz sección 09032. Dato base. Renta neta media por hogar. ",
+    "T3_Unidad": "Euros",
+    "T3_Escala": " ",
+    "MetaData": [
+      {
+        "Id": 326240,
+        "T3_Variable": "Secciones",
+        "Nombre": "Badajoz sección 09032",
+        "Codigo": "0601509032"
+      },
+      {
+        "Id": 72,
+        "T3_Variable": "Tipo de dato",
+        "Nombre": "Dato base",
+        "Codigo": ""
+      },
+      {
+        "Id": 284052,
+        "T3_Variable": "SALDOS CONTABLES",
+        "Nombre": "Renta neta media por hogar",
+        "Codigo": ""
+      }
+    ],
+    "Data": [
+      {
+        "Fecha": "2022-01-01T00:00:00.000+01:00",
+        "T3_TipoDato": "Definitivo",
+        "T3_Periodo": "A",
+        "Anyo": 2022,
+        "Valor": 44267
+      }
+    ]
+  },
+  {
+    "COD": "ADRH54968",
+    "Nombre": "Badajoz sección 09036. Dato base. Renta neta media por hogar. ",
+    "T3_Unidad": "Euros",
+    "T3_Escala": " ",
+    "MetaData": [
+      {
+        "Id": 326241,
+        "T3_Variable": "Secciones",
+        "Nombre": "Badajoz sección 09036",
+        "Codigo": "0601509036"
+      },
+      {
+        "Id": 72,
+        "T3_Variable": "Tipo de dato",
+        "Nombre": "Dato base",
+        "Codigo": ""
+      },
+      {
+        "Id": 284052,
+        "T3_Variable": "SALDOS CONTABLES",
+        "Nombre": "Renta neta media por hogar",
+        "Codigo": ""
+      }
+    ],
+    "Data": [
+      {
+        "Fecha": "2022-01-01T00:00:00.000+01:00",
+        "T3_TipoDato": "Definitivo",
+        "T3_Periodo": "A",
+        "Anyo": 2022,
+        "Valor": 50689
+      }
+    ]
+  },
+  {
+    "COD": "ADRH54966",
+    "Nombre": "Badajoz sección 09037. Dato base. Renta neta media por hogar. ",
+    "T3_Unidad": "Euros",
+    "T3_Escala": " ",
+    "MetaData": [
+      {
+        "Id": 326242,
+        "T3_Variable": "Secciones",
+        "Nombre": "Badajoz sección 09037",
+        "Codigo": "0601509037"
+      },
+      {
+        "Id": 72,
+        "T3_Variable": "Tipo de dato",
+        "Nombre": "Dato base",
+        "Codigo": ""
+      },
+      {
+        "Id": 284052,
+        "T3_Variable": "SALDOS CONTABLES",
+        "Nombre": "Renta neta media por hogar",
+        "Codigo": ""
+      }
+    ],
+    "Data": [
+      {
+        "Fecha": "2022-01-01T00:00:00.000+01:00",
+        "T3_TipoDato": "Definitivo",
+        "T3_Periodo": "A",
+        "Anyo": 2022,
+        "Valor": 53333
+      }
+    ]
+  },
+  {
+    "COD": "ADRH82020",
+    "Nombre": "Badajoz distrito 10. Dato base. Renta neta media por hogar. ",
+    "T3_Unidad": "Euros",
+    "T3_Escala": " ",
+    "MetaData": [
+      {
+        "Id": 326243,
+        "T3_Variable": "Distritos",
+        "Nombre": "Badajoz distrito 10",
+        "Codigo": "0601510"
+      },
+      {
+        "Id": 72,
+        "T3_Variable": "Tipo de dato",
+        "Nombre": "Dato base",
+        "Codigo": ""
+      },
+      {
+        "Id": 284052,
+        "T3_Variable": "SALDOS CONTABLES",
+        "Nombre": "Renta neta media por hogar",
+        "Codigo": ""
+      }
+    ],
+    "Data": [
+      {
+        "Fecha": "2022-01-01T00:00:00.000+01:00",
+        "T3_TipoDato": "Definitivo",
+        "T3_Periodo": "A",
+        "Anyo": 2022,
+        "Valor": 42997
+      }
+    ]
+  },
+  {
+    "COD": "ADRH54964",
+    "Nombre": "Badajoz sección 10001. Dato base. Renta neta media por hogar. ",
+    "T3_Unidad": "Euros",
+    "T3_Escala": " ",
+    "MetaData": [
+      {
+        "Id": 326244,
+        "T3_Variable": "Secciones",
+        "Nombre": "Badajoz sección 10001",
+        "Codigo": "0601510001"
+      },
+      {
+        "Id": 72,
+        "T3_Variable": "Tipo de dato",
+        "Nombre": "Dato base",
+        "Codigo": ""
+      },
+      {
+        "Id": 284052,
+        "T3_Variable": "SALDOS CONTABLES",
+        "Nombre": "Renta neta media por hogar",
+        "Codigo": ""
+      }
+    ],
+    "Data": [
+      {
+        "Fecha": "2022-01-01T00:00:00.000+01:00",
+        "T3_TipoDato": "Definitivo",
+        "T3_Periodo": "A",
+        "Anyo": 2022,
+        "Valor": 37174
+      }
+    ]
+  },
+  {
+    "COD": "ADRH54962",
+    "Nombre": "Badajoz sección 10015. Dato base. Renta neta media por hogar. ",
+    "T3_Unidad": "Euros",
+    "T3_Escala": " ",
+    "MetaData": [
+      {
+        "Id": 326245,
+        "T3_Variable": "Secciones",
+        "Nombre": "Badajoz sección 10015",
+        "Codigo": "0601510015"
+      },
+      {
+        "Id": 72,
+        "T3_Variable": "Tipo de dato",
+        "Nombre": "Dato base",
+        "Codigo": ""
+      },
+      {
+        "Id": 284052,
+        "T3_Variable": "SALDOS CONTABLES",
+        "Nombre": "Renta neta media por hogar",
+        "Codigo": ""
+      }
+    ],
+    "Data": [
+      {
+        "Fecha": "2022-01-01T00:00:00.000+01:00",
+        "T3_TipoDato": "Definitivo",
+        "T3_Periodo": "A",
+        "Anyo": 2022,
+        "Valor": 32877
+      }
+    ]
+  },
+  {
+    "COD": "ADRH54960",
+    "Nombre": "Badajoz sección 10016. Dato base. Renta neta media por hogar. ",
+    "T3_Unidad": "Euros",
+    "T3_Escala": " ",
+    "MetaData": [
+      {
+        "Id": 326246,
+        "T3_Variable": "Secciones",
+        "Nombre": "Badajoz sección 10016",
+        "Codigo": "0601510016"
+      },
+      {
+        "Id": 72,
+        "T3_Variable": "Tipo de dato",
+        "Nombre": "Dato base",
+        "Codigo": ""
+      },
+      {
+        "Id": 284052,
+        "T3_Variable": "SALDOS CONTABLES",
+        "Nombre": "Renta neta media por hogar",
+        "Codigo": ""
+      }
+    ],
+    "Data": [
+      {
+        "Fecha": "2022-01-01T00:00:00.000+01:00",
+        "T3_TipoDato": "Definitivo",
+        "T3_Periodo": "A",
+        "Anyo": 2022,
+        "Valor": 40847
+      }
+    ]
+  },
+  {
+    "COD": "ADRH54958",
+    "Nombre": "Badajoz sección 10017. Dato base. Renta neta media por hogar. ",
+    "T3_Unidad": "Euros",
+    "T3_Escala": " ",
+    "MetaData": [
+      {
+        "Id": 326247,
+        "T3_Variable": "Secciones",
+        "Nombre": "Badajoz sección 10017",
+        "Codigo": "0601510017"
+      },
+      {
+        "Id": 72,
+        "T3_Variable": "Tipo de dato",
+        "Nombre": "Dato base",
+        "Codigo": ""
+      },
+      {
+        "Id": 284052,
+        "T3_Variable": "SALDOS CONTABLES",
+        "Nombre": "Renta neta media por hogar",
+        "Codigo": ""
+      }
+    ],
+    "Data": [
+      {
+        "Fecha": "2022-01-01T00:00:00.000+01:00",
+        "T3_TipoDato": "Definitivo",
+        "T3_Periodo": "A",
+        "Anyo": 2022,
+        "Valor": 34387
+      }
+    ]
+  },
+  {
+    "COD": "ADRH54956",
+    "Nombre": "Badajoz sección 10033. Dato base. Renta neta media por hogar. ",
+    "T3_Unidad": "Euros",
+    "T3_Escala": " ",
+    "MetaData": [
+      {
+        "Id": 326248,
+        "T3_Variable": "Secciones",
+        "Nombre": "Badajoz sección 10033",
+        "Codigo": "0601510033"
+      },
+      {
+        "Id": 72,
+        "T3_Variable": "Tipo de dato",
+        "Nombre": "Dato base",
+        "Codigo": ""
+      },
+      {
+        "Id": 284052,
+        "T3_Variable": "SALDOS CONTABLES",
+        "Nombre": "Renta neta media por hogar",
+        "Codigo": ""
+      }
+    ],
+    "Data": [
+      {
+        "Fecha": "2022-01-01T00:00:00.000+01:00",
+        "T3_TipoDato": "Definitivo",
+        "T3_Periodo": "A",
+        "Anyo": 2022,
+        "Valor": 57210
+      }
+    ]
+  },
+  {
+    "COD": "ADRH54954",
+    "Nombre": "Badajoz sección 10034. Dato base. Renta neta media por hogar. ",
+    "T3_Unidad": "Euros",
+    "T3_Escala": " ",
+    "MetaData": [
+      {
+        "Id": 326249,
+        "T3_Variable": "Secciones",
+        "Nombre": "Badajoz sección 10034",
+        "Codigo": "0601510034"
+      },
+      {
+        "Id": 72,
+        "T3_Variable": "Tipo de dato",
+        "Nombre": "Dato base",
+        "Codigo": ""
+      },
+      {
+        "Id": 284052,
+        "T3_Variable": "SALDOS CONTABLES",
+        "Nombre": "Renta neta media por hogar",
+        "Codigo": ""
+      }
+    ],
+    "Data": [
+      {
+        "Fecha": "2022-01-01T00:00:00.000+01:00",
+        "T3_TipoDato": "Definitivo",
+        "T3_Periodo": "A",
+        "Anyo": 2022,
+        "Valor": 30251
+      }
+    ]
+  },
+  {
+    "COD": "ADRH54952",
+    "Nombre": "Badajoz sección 10035. Dato base. Renta neta media por hogar. ",
+    "T3_Unidad": "Euros",
+    "T3_Escala": " ",
+    "MetaData": [
+      {
+        "Id": 326250,
+        "T3_Variable": "Secciones",
+        "Nombre": "Badajoz sección 10035",
+        "Codigo": "0601510035"
+      },
+      {
+        "Id": 72,
+        "T3_Variable": "Tipo de dato",
+        "Nombre": "Dato base",
+        "Codigo": ""
+      },
+      {
+        "Id": 284052,
+        "T3_Variable": "SALDOS CONTABLES",
+        "Nombre": "Renta neta media por hogar",
+        "Codigo": ""
+      }
+    ],
+    "Data": [
+      {
+        "Fecha": "2022-01-01T00:00:00.000+01:00",
+        "T3_TipoDato": "Definitivo",
+        "T3_Periodo": "A",
+        "Anyo": 2022,
+        "Valor": 65836
+      }
+    ]
+  },
+  {
+    "COD": "ADRH54950",
+    "Nombre": "Badajoz sección 10036. Dato base. Renta neta media por hogar. ",
+    "T3_Unidad": "Euros",
+    "T3_Escala": " ",
+    "MetaData": [
+      {
+        "Id": 326251,
+        "T3_Variable": "Secciones",
+        "Nombre": "Badajoz sección 10036",
+        "Codigo": "0601510036"
+      },
+      {
+        "Id": 72,
+        "T3_Variable": "Tipo de dato",
+        "Nombre": "Dato base",
+        "Codigo": ""
+      },
+      {
+        "Id": 284052,
+        "T3_Variable": "SALDOS CONTABLES",
+        "Nombre": "Renta neta media por hogar",
+        "Codigo": ""
+      }
+    ],
+    "Data": [
+      {
+        "Fecha": "2022-01-01T00:00:00.000+01:00",
+        "T3_TipoDato": "Definitivo",
+        "T3_Periodo": "A",
+        "Anyo": 2022,
+        "Valor": 60904
+      }
+    ]
+  },
+  {
+    "COD": "ADRH54948",
+    "Nombre": "Badajoz sección 10037. Dato base. Renta neta media por hogar. ",
+    "T3_Unidad": "Euros",
+    "T3_Escala": " ",
+    "MetaData": [
+      {
+        "Id": 326252,
+        "T3_Variable": "Secciones",
+        "Nombre": "Badajoz sección 10037",
+        "Codigo": "0601510037"
+      },
+      {
+        "Id": 72,
+        "T3_Variable": "Tipo de dato",
+        "Nombre": "Dato base",
+        "Codigo": ""
+      },
+      {
+        "Id": 284052,
+        "T3_Variable": "SALDOS CONTABLES",
+        "Nombre": "Renta neta media por hogar",
+        "Codigo": ""
+      }
+    ],
+    "Data": [
+      {
+        "Fecha": "2022-01-01T00:00:00.000+01:00",
+        "T3_TipoDato": "Definitivo",
+        "T3_Periodo": "A",
+        "Anyo": 2022,
+        "Valor": 32692
+      }
+    ]
+  }
+]
