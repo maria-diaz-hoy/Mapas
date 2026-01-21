@@ -52,7 +52,7 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Alcantara",
+        "name": "Alcántara",
         "clinicas_dentales": 0,
         "audio": 0,
         "opticas": 1
@@ -1332,7 +1332,7 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Navalvillar de pela",
+        "name": "Navalvillar de Pela",
         "clinicas_dentales": 1,
         "audio": 0,
         "opticas": 3
@@ -1364,7 +1364,7 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Oliva de la frontera",
+        "name": "Oliva de la Frontera",
         "clinicas_dentales": 0,
         "audio": 0,
         "opticas": 1
@@ -1412,7 +1412,7 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Pasaron de la vera",
+        "name": "Pasarón de la Vera",
         "clinicas_dentales": 0,
         "audio": 1,
         "opticas": 0
@@ -1508,7 +1508,7 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Puebla de la calzada",
+        "name": "Puebla de la Calzada",
         "clinicas_dentales": 0,
         "audio": 0,
         "opticas": 1
@@ -1588,7 +1588,7 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "San Vicente de alcántara",
+        "name": "San Vicente de Alcántara",
         "clinicas_dentales": 0,
         "audio": 1,
         "opticas": 0
@@ -1604,7 +1604,7 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "San vicente de alcantara",
+        "name": "San Vicente de Alcántara",
         "clinicas_dentales": 2,
         "audio": 0,
         "opticas": 2
@@ -1668,7 +1668,7 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Santa marta",
+        "name": "Santa Marta",
         "clinicas_dentales": 0,
         "audio": 0,
         "opticas": 1
@@ -1684,7 +1684,7 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Santos de maimona (los)",
+        "name": "Los Santos de Maimona",
         "clinicas_dentales": 0,
         "audio": 0,
         "opticas": 2
@@ -1716,7 +1716,7 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Segura de leon",
+        "name": "Segura de León",
         "clinicas_dentales": 1,
         "audio": 0,
         "opticas": 0
@@ -1812,7 +1812,7 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Talavera la real",
+        "name": "Talavera la Real",
         "clinicas_dentales": 1,
         "audio": 0,
         "opticas": 0
@@ -2020,7 +2020,7 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Valverde de leganes",
+        "name": "Valverde de Leganés",
         "clinicas_dentales": 0,
         "audio": 0,
         "opticas": 1
@@ -2036,7 +2036,7 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Valverde del fresno",
+        "name": "Valverde del Fresno",
         "clinicas_dentales": 1,
         "audio": 0,
         "opticas": 0
@@ -2068,7 +2068,7 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Villafranca de los barros",
+        "name": "Villafranca de los Barros",
         "clinicas_dentales": 0,
         "audio": 1,
         "opticas": 3
