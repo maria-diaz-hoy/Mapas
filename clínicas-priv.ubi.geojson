@@ -1,0 +1,2229 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Aceuchal",
+        "clinicas_dentales": 3,
+        "audio": 0,
+        "opticas": 1
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.491674267660351,
+          38.66364309599274
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Ahigal",
+        "clinicas_dentales": 0,
+        "audio": 1,
+        "opticas": 1
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.186143507378801,
+          40.1351202885625
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Alburquerque",
+        "clinicas_dentales": 4,
+        "audio": 1,
+        "opticas": 1
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.965391844959402,
+          39.19358408102603
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Alcantara",
+        "clinicas_dentales": 0,
+        "audio": 0,
+        "opticas": 1
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.8869875,
+          39.7206785
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Alconchel",
+        "clinicas_dentales": 1,
+        "audio": 0,
+        "opticas": 0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.147641384504724,
+          38.52640367885328
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Alcuescar",
+        "clinicas_dentales": 0,
+        "audio": 0,
+        "opticas": 1
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.2284451,
+          39.1801212
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Alcuéscar",
+        "clinicas_dentales": 2,
+        "audio": 0,
+        "opticas": 0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.2394054551632845,
+          39.17842187616309
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Aldeanueva de la Vera",
+        "clinicas_dentales": 1,
+        "audio": 0,
+        "opticas": 0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.707657569179714,
+          40.143772548714736
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Aliseda",
+        "clinicas_dentales": 1,
+        "audio": 0,
+        "opticas": 0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.698758800549779,
+          39.40500350351018
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Almendral",
+        "clinicas_dentales": 1,
+        "audio": 0,
+        "opticas": 0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.837670303975114,
+          38.60725347591293
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Almendralejo",
+        "clinicas_dentales": 18,
+        "audio": 7,
+        "opticas": 11
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.402657185896558,
+          38.69718519345479
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Arroyo de San Serván",
+        "clinicas_dentales": 3,
+        "audio": 0,
+        "opticas": 0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.454130421098233,
+          38.8395190285731
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Arroyo de la Luz",
+        "clinicas_dentales": 2,
+        "audio": 0,
+        "opticas": 0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.584024185711559,
+          39.512635875256095
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Arroyo de la luz",
+        "clinicas_dentales": 0,
+        "audio": 1,
+        "opticas": 2
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.5845773,
+          39.4840338
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Arroyo de san servan",
+        "clinicas_dentales": 0,
+        "audio": 0,
+        "opticas": 1
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.4545275,
+          38.8548255
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Azuaga",
+        "clinicas_dentales": 7,
+        "audio": 2,
+        "opticas": 2
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.693987944953231,
+          38.2580739032724
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Badajoz",
+        "clinicas_dentales": 84,
+        "audio": 16,
+        "opticas": 40
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.9289779117065216,
+          38.870084921325365
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Barcarrota",
+        "clinicas_dentales": 1,
+        "audio": 0,
+        "opticas": 0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.8850875185495415,
+          38.51833900533652
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Berlanga",
+        "clinicas_dentales": 2,
+        "audio": 0,
+        "opticas": 0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.818290329183045,
+          38.29084709212183
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Bienvenida",
+        "clinicas_dentales": 1,
+        "audio": 0,
+        "opticas": 1
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.216931924808263,
+          38.31205157459509
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Brozas",
+        "clinicas_dentales": 1,
+        "audio": 0,
+        "opticas": 0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.7588796336987,
+          39.55164394961878
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Burguillos del Cerro",
+        "clinicas_dentales": 0,
+        "audio": 0,
+        "opticas": 1
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.599988182744161,
+          38.38525192683748
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Burguillos del cerro",
+        "clinicas_dentales": 0,
+        "audio": 1,
+        "opticas": 0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.5907481,
+          38.3798701
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Cabeza del Buey",
+        "clinicas_dentales": 3,
+        "audio": 0,
+        "opticas": 2
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.276686930881121,
+          38.77616002558696
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Cabeza del buey",
+        "clinicas_dentales": 0,
+        "audio": 1,
+        "opticas": 0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.2211611,
+          38.7211592
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Cabeza la Vaca",
+        "clinicas_dentales": 1,
+        "audio": 0,
+        "opticas": 0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.397372135982984,
+          38.08979350785504
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Cabezuela del valle",
+        "clinicas_dentales": 2,
+        "audio": 0,
+        "opticas": 0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.805708,
+          40.1934605
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Calamonte",
+        "clinicas_dentales": 2,
+        "audio": 1,
+        "opticas": 2
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.383230600681769,
+          38.87391768903535
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Campanario",
+        "clinicas_dentales": 3,
+        "audio": 0,
+        "opticas": 0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.564728188501824,
+          38.87442692199599
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Casar de Cáceres",
+        "clinicas_dentales": 2,
+        "audio": 0,
+        "opticas": 1
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.457567150005176,
+          39.59465505077363
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Castañar de Ibor",
+        "clinicas_dentales": 1,
+        "audio": 0,
+        "opticas": 0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.424688220981875,
+          39.652400414772494
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Castuera",
+        "clinicas_dentales": 5,
+        "audio": 0,
+        "opticas": 3
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.461069374647762,
+          38.79228285815198
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Cañaveral",
+        "clinicas_dentales": 1,
+        "audio": 0,
+        "opticas": 0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.406763603580946,
+          39.77477995315154
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Ceclavin",
+        "clinicas_dentales": 1,
+        "audio": 0,
+        "opticas": 0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.7734102,
+          39.8224249
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Cilleros",
+        "clinicas_dentales": 2,
+        "audio": 0,
+        "opticas": 0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.813830392158961,
+          40.05421310764492
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Coria",
+        "clinicas_dentales": 11,
+        "audio": 3,
+        "opticas": 5
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.520661761255161,
+          39.97580387592593
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Corte de peleas",
+        "clinicas_dentales": 1,
+        "audio": 0,
+        "opticas": 0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.6710101,
+          38.7253775
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Cáceres",
+        "clinicas_dentales": 64,
+        "audio": 13,
+        "opticas": 27
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.482559720138206,
+          39.28917518041512
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Don Benito",
+        "clinicas_dentales": 26,
+        "audio": 7,
+        "opticas": 11
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.909703640580842,
+          38.81119890768096
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Fregenal de la Sierra",
+        "clinicas_dentales": 3,
+        "audio": 3,
+        "opticas": 4
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.583719845829444,
+          38.23103850449191
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Fuente de Cantos",
+        "clinicas_dentales": 4,
+        "audio": 1,
+        "opticas": 3
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.30167783049605,
+          38.22157542661181
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Fuente del Maestre",
+        "clinicas_dentales": 4,
+        "audio": 0,
+        "opticas": 2
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.438388579477087,
+          38.5499434529382
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Fuentes de  León",
+        "clinicas_dentales": 1,
+        "audio": 0,
+        "opticas": 0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.5402165,
+          38.0681263
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Fuentes de León",
+        "clinicas_dentales": 1,
+        "audio": 0,
+        "opticas": 0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.531559984234388,
+          38.0576624821401
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Fuentes de leon",
+        "clinicas_dentales": 0,
+        "audio": 0,
+        "opticas": 1
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.5402165,
+          38.0681263
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Garrovillas de alconetar",
+        "clinicas_dentales": 1,
+        "audio": 0,
+        "opticas": 0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.5494403,
+          39.7131532
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Granja de Torrehermosa",
+        "clinicas_dentales": 1,
+        "audio": 0,
+        "opticas": 0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.61755859793027,
+          38.34519207703799
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Guadalupe",
+        "clinicas_dentales": 3,
+        "audio": 0,
+        "opticas": 0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.31925695886952,
+          39.44507318206282
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Guareña",
+        "clinicas_dentales": 3,
+        "audio": 0,
+        "opticas": 2
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.115931245298884,
+          38.99889255160451
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Herrera del Duque",
+        "clinicas_dentales": 3,
+        "audio": 1,
+        "opticas": 2
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.011471615705679,
+          39.2233792105059
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Hervás",
+        "clinicas_dentales": 4,
+        "audio": 0,
+        "opticas": 1
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.84220711094028,
+          40.26993516986828
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Higuera la Real",
+        "clinicas_dentales": 1,
+        "audio": 0,
+        "opticas": 0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.734977478790216,
+          38.14592784131585
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Hornachos",
+        "clinicas_dentales": 1,
+        "audio": 0,
+        "opticas": 0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.067370264544162,
+          38.561206308978434
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Jaraiz de la Vera",
+        "clinicas_dentales": 7,
+        "audio": 0,
+        "opticas": 0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.7551824,
+          40.0598888
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Jaraiz de la vera",
+        "clinicas_dentales": 0,
+        "audio": 0,
+        "opticas": 3
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.7551824,
+          40.0598888
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Jarandilla de la Vera",
+        "clinicas_dentales": 3,
+        "audio": 0,
+        "opticas": 0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.649067999783525,
+          40.099141052966495
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Jarandilla de la vera",
+        "clinicas_dentales": 0,
+        "audio": 1,
+        "opticas": 2
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.6587,
+          40.1282875
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Jerez de los Caballeros",
+        "clinicas_dentales": 0,
+        "audio": 1,
+        "opticas": 1
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.7990726627314615,
+          38.271800559655645
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Jerez de los caballeros",
+        "clinicas_dentales": 5,
+        "audio": 0,
+        "opticas": 1
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.7713389,
+          38.3201991
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "La Garrovilla",
+        "clinicas_dentales": 1,
+        "audio": 0,
+        "opticas": 0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.487342354478478,
+          38.92871375110897
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "La Parra",
+        "clinicas_dentales": 1,
+        "audio": 0,
+        "opticas": 0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.62092593781554,
+          38.519088168775625
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "La Pesga",
+        "clinicas_dentales": 1,
+        "audio": 0,
+        "opticas": 0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.139920234930427,
+          40.309211676459206
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "La Zarza",
+        "clinicas_dentales": 1,
+        "audio": 0,
+        "opticas": 1
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.215245293225381,
+          38.811110767601534
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Llerena",
+        "clinicas_dentales": 5,
+        "audio": 1,
+        "opticas": 3
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.05813964106685,
+          38.22483934967075
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Lobón",
+        "clinicas_dentales": 1,
+        "audio": 0,
+        "opticas": 0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.5997610905064255,
+          38.83610809015285
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Logrosan",
+        "clinicas_dentales": 1,
+        "audio": 0,
+        "opticas": 0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.4924596,
+          39.336979
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Los Santos de Maimona",
+        "clinicas_dentales": 5,
+        "audio": 0,
+        "opticas": 0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.340859960430451,
+          38.4722015501964
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Losar de la Vera",
+        "clinicas_dentales": 3,
+        "audio": 0,
+        "opticas": 0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.589717773631604,
+          40.16745756766549
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Madrigal de la Vera",
+        "clinicas_dentales": 2,
+        "audio": 0,
+        "opticas": 0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.369306545082221,
+          40.24223017403165
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Malpartida de Cáceres",
+        "clinicas_dentales": 2,
+        "audio": 0,
+        "opticas": 0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.4925060437961175,
+          39.439435564014566
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Malpartida de Plasencia",
+        "clinicas_dentales": 2,
+        "audio": 0,
+        "opticas": 0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.1010041795395535,
+          39.93669232293164
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Malpartida de caceres",
+        "clinicas_dentales": 0,
+        "audio": 1,
+        "opticas": 1
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.5046747,
+          39.4458422
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Miajadas",
+        "clinicas_dentales": 8,
+        "audio": 2,
+        "opticas": 5
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.930760376937972,
+          39.13630807471765
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Monesterio",
+        "clinicas_dentales": 3,
+        "audio": 1,
+        "opticas": 2
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.233752643672104,
+          38.03967071912632
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Montanchez",
+        "clinicas_dentales": 1,
+        "audio": 0,
+        "opticas": 0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.1501782,
+          39.2241144
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Montehermoso",
+        "clinicas_dentales": 5,
+        "audio": 1,
+        "opticas": 2
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.343327796869357,
+          40.07320655919992
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Monterrubio de la serena",
+        "clinicas_dentales": 1,
+        "audio": 0,
+        "opticas": 0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.4451308,
+          38.5893449
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Montijo",
+        "clinicas_dentales": 11,
+        "audio": 4,
+        "opticas": 5
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.56701884823349,
+          38.9639653051724
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Moraleja",
+        "clinicas_dentales": 6,
+        "audio": 1,
+        "opticas": 2
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.666600704615988,
+          40.04772285280264
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Mérida",
+        "clinicas_dentales": 31,
+        "audio": 11,
+        "opticas": 18
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.361949310996662,
+          38.95012443842794
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Navaconcejo",
+        "clinicas_dentales": 1,
+        "audio": 0,
+        "opticas": 0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.857528322567282,
+          40.17247107100359
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Navalmoral de la Mata",
+        "clinicas_dentales": 18,
+        "audio": 5,
+        "opticas": 7
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.555535141426146,
+          39.932039650383246
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Navalvillar de Pela",
+        "clinicas_dentales": 0,
+        "audio": 2,
+        "opticas": 0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.48722544023658,
+          39.1140114670384
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Navalvillar de pela",
+        "clinicas_dentales": 1,
+        "audio": 0,
+        "opticas": 3
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.4681268,
+          39.0916315
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Oliva de la Frontera",
+        "clinicas_dentales": 2,
+        "audio": 0,
+        "opticas": 0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.0048633702173255,
+          38.24845181871129
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Oliva de la frontera",
+        "clinicas_dentales": 0,
+        "audio": 0,
+        "opticas": 1
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.9184328,
+          38.2769879
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Olivenza",
+        "clinicas_dentales": 5,
+        "audio": 0,
+        "opticas": 3
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.118078017163959,
+          38.66990436032641
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Orellana la Vieja",
+        "clinicas_dentales": 1,
+        "audio": 0,
+        "opticas": 0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.551661023894921,
+          39.01265750781253
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Pasaron de la vera",
+        "clinicas_dentales": 0,
+        "audio": 1,
+        "opticas": 0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.8209905,
+          40.0521312
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Pinofranqueado",
+        "clinicas_dentales": 3,
+        "audio": 0,
+        "opticas": 0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.379594206278567,
+          40.34587648356417
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Piornal",
+        "clinicas_dentales": 1,
+        "audio": 0,
+        "opticas": 0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.845284157610832,
+          40.11475221752533
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Plasencia",
+        "clinicas_dentales": 32,
+        "audio": 7,
+        "opticas": 17
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.152151026127439,
+          40.01673496475736
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Puebla de Sancho Pérez",
+        "clinicas_dentales": 2,
+        "audio": 0,
+        "opticas": 0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.364591542198334,
+          38.396231398237774
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Puebla de la Calzada",
+        "clinicas_dentales": 2,
+        "audio": 0,
+        "opticas": 0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.629213695628519,
+          38.87723588162079
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Puebla de la calzada",
+        "clinicas_dentales": 0,
+        "audio": 0,
+        "opticas": 1
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.6261713,
+          38.8936017
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Quintana de la Serena",
+        "clinicas_dentales": 3,
+        "audio": 0,
+        "opticas": 0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.7282488056228,
+          38.74739606500392
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Ribera del Fresno",
+        "clinicas_dentales": 1,
+        "audio": 0,
+        "opticas": 0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.254211500139295,
+          38.53865223513829
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Rosalejo",
+        "clinicas_dentales": 1,
+        "audio": 0,
+        "opticas": 0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.463450037880058,
+          39.99047198956457
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Salvatierra de los Barros",
+        "clinicas_dentales": 1,
+        "audio": 0,
+        "opticas": 0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.685394282575105,
+          38.485726741128005
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "San Vicente de alcántara",
+        "clinicas_dentales": 0,
+        "audio": 1,
+        "opticas": 0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.137439,
+          39.3625211
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "San vicente de alcantara",
+        "clinicas_dentales": 2,
+        "audio": 0,
+        "opticas": 2
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.137439,
+          39.3625211
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "SanVicente de Alcántara",
+        "clinicas_dentales": 1,
+        "audio": 0,
+        "opticas": 0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.88375,
+          39.71895
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Santa Amalia",
+        "clinicas_dentales": 3,
+        "audio": 0,
+        "opticas": 0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.044216484369537,
+          38.9916891661809
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Santa Marta",
+        "clinicas_dentales": 1,
+        "audio": 0,
+        "opticas": 0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.642798259187831,
+          38.64494102035053
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Santa marta",
+        "clinicas_dentales": 0,
+        "audio": 0,
+        "opticas": 1
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.6275791,
+          38.6137965
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Santos de maimona (los)",
+        "clinicas_dentales": 0,
+        "audio": 0,
+        "opticas": 2
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.3615125,
+          38.449746
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Segura de León",
+        "clinicas_dentales": 0,
+        "audio": 1,
+        "opticas": 0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.466202857138562,
+          38.11989566393963
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Segura de leon",
+        "clinicas_dentales": 1,
+        "audio": 0,
+        "opticas": 0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.5287399,
+          38.1201734
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Serradilla",
+        "clinicas_dentales": 1,
+        "audio": 0,
+        "opticas": 0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.105216138603178,
+          39.79871498812754
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Siruela",
+        "clinicas_dentales": 0,
+        "audio": 0,
+        "opticas": 2
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.10114206963309,
+          38.96999745407104
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Solana de los Barros",
+        "clinicas_dentales": 0,
+        "audio": 0,
+        "opticas": 1
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.565787907852449,
+          38.73416765144846
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Talarrubias",
+        "clinicas_dentales": 3,
+        "audio": 1,
+        "opticas": 1
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.186404109417454,
+          39.1201470685599
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Talavera la Real",
+        "clinicas_dentales": 0,
+        "audio": 0,
+        "opticas": 1
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.756633152871349,
+          38.86610178105339
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Talavera la real",
+        "clinicas_dentales": 1,
+        "audio": 0,
+        "opticas": 0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.7704834,
+          38.8772724
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Talayuela",
+        "clinicas_dentales": 5,
+        "audio": 0,
+        "opticas": 2
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.541198137623346,
+          40.02241535594924
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Torrejoncillo",
+        "clinicas_dentales": 1,
+        "audio": 0,
+        "opticas": 0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.463213923972304,
+          39.90723063852112
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Torremocha",
+        "clinicas_dentales": 1,
+        "audio": 0,
+        "opticas": 0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.176724309434107,
+          39.32701595705301
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Torreorgaz",
+        "clinicas_dentales": 1,
+        "audio": 0,
+        "opticas": 0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.25557674960678,
+          39.38370034409613
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Trujillo",
+        "clinicas_dentales": 7,
+        "audio": 1,
+        "opticas": 2
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.877948601843555,
+          39.4666129205707
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Usagre",
+        "clinicas_dentales": 1,
+        "audio": 0,
+        "opticas": 0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.182901984502155,
+          38.38718327493091
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Valdefuentes",
+        "clinicas_dentales": 1,
+        "audio": 0,
+        "opticas": 0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.129324990418258,
+          39.29242350603346
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Valdelacalzada",
+        "clinicas_dentales": 1,
+        "audio": 0,
+        "opticas": 0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.693352160976303,
+          38.88672002835881
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Valencia de Alcántara",
+        "clinicas_dentales": 2,
+        "audio": 0,
+        "opticas": 0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.212512045393339,
+          39.44007468981284
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Valencia de alcantara",
+        "clinicas_dentales": 0,
+        "audio": 0,
+        "opticas": 1
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.2420859,
+          39.4131571
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Valencia del Ventoso",
+        "clinicas_dentales": 2,
+        "audio": 0,
+        "opticas": 0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.464736033395467,
+          38.27491060817558
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Valverde de Leganés",
+        "clinicas_dentales": 2,
+        "audio": 0,
+        "opticas": 0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.975180883467658,
+          38.67018961229242
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Valverde de leganes",
+        "clinicas_dentales": 0,
+        "audio": 0,
+        "opticas": 1
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.9808325,
+          38.6706374
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Valverde del fresno",
+        "clinicas_dentales": 1,
+        "audio": 0,
+        "opticas": 0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.8781742,
+          40.2241479
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Villafranca de los Barros",
+        "clinicas_dentales": 10,
+        "audio": 0,
+        "opticas": 0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.337890773754304,
+          38.58411311494127
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Villafranca de los barros",
+        "clinicas_dentales": 0,
+        "audio": 1,
+        "opticas": 3
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.3392388,
+          38.5613352
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Villanueva de la Serena",
+        "clinicas_dentales": 17,
+        "audio": 5,
+        "opticas": 9
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.736443205571941,
+          38.99046287157116
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Villanueva de la Vera",
+        "clinicas_dentales": 2,
+        "audio": 0,
+        "opticas": 0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.43260508419252,
+          40.13343598138344
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Villanueva del Fresno",
+        "clinicas_dentales": 1,
+        "audio": 0,
+        "opticas": 0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.14833173995443,
+          38.39049394227478
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Villar del Rey",
+        "clinicas_dentales": 1,
+        "audio": 0,
+        "opticas": 0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.831704299905827,
+          39.11608506490519
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Zafra",
+        "clinicas_dentales": 19,
+        "audio": 5,
+        "opticas": 12
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.443835181920475,
+          38.43759280793401
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Zahinos",
+        "clinicas_dentales": 1,
+        "audio": 0,
+        "opticas": 0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.9546662,
+          38.330536
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Zalamea de la Serena",
+        "clinicas_dentales": 3,
+        "audio": 0,
+        "opticas": 0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.666497012200249,
+          38.59006723952169
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Zarza de Granadilla",
+        "clinicas_dentales": 1,
+        "audio": 0,
+        "opticas": 0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.077644356205698,
+          40.25720926270508
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Zarza de Montánchez",
+        "clinicas_dentales": 1,
+        "audio": 0,
+        "opticas": 0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.043192019773918,
+          39.23836882358249
+        ]
+      }
+    }
+  ]
+}
